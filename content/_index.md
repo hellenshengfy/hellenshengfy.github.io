@@ -2,7 +2,8 @@
 title: Home
 ---
 
-{{<figure src="https://hellenshengfy.github.io/Cover pic.jpg" title="In the archaeolgical park of Pumpeii, 14 miles southeast of Naples (照片坐标：庞贝古城，距那不勒斯14英里）" width="450">}}
+{{<figure src="https://hellenshengfy.github.io/Cover pic.jpg" title="At the site of Pumpeii, 14 miles southeast of Naples
+  (照片坐标：庞贝古城，距那不勒斯14英里）" width="450">}}
 
 I was born on Mars in 2011. Four days after my birth, I moved to the Earth with my family. There, what I saw shocked me greatly. 
 
