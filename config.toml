@@ -23,7 +23,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     name = "My sites"
     url = "/en/posts/"
     weight = 3
-[[menu.main]]
+[[menu.en]]
     name = "My Notebooks"
     url = "/en/notes/"
     weight = 4
