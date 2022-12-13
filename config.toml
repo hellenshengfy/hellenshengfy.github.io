@@ -20,11 +20,11 @@ posts = "/posts/:year/:month/:day/:slug/"
     url = "/en/about/"
     weight = 2
 [[menu.en]]
-    name = "My sites"
+    name = "My posts"
     url = "/en/posts/"
     weight = 3
 [[menu.en]]
-    name = "My Notebooks"
+    name = "My sites"
     url = "/en/notes/"
     weight = 4
 [[menu.en]]
