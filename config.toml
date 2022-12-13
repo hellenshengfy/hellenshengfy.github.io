@@ -25,7 +25,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     weight = 3
 [[menu.main]]
     name = "My Notebooks"
-    url = "/en/My notebook/"
+    url = "/en/notes/"
     weight = 4
 [[menu.en]]
     name = "中文"
