@@ -8,7 +8,7 @@ type : nolisting
 
 {{< columns >}}
 
-{{<figure src="https://hellenshengfy.github.io/Nanyuewang1.jpg">}}
+{{<figure src="https://hellenshengfy.github.io/Nanyuewang.jpg">}}
 
 {{< column >}}
 
