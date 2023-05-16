@@ -50,3 +50,18 @@ Zhaomo
 Notebook
 
 {{< endcolumn >}}
+## 4. Online courses
+
+### Courses and certificates from Mooc and edX
+
+{{< columns >}}
+
+{{<figure src="https://hellenshengfy.github.io/Nanyuewang.jpg">}}
+
+{{< column >}}
+
+Zhaomo 
+
+Notebook
+
+{{< endcolumn >}}
