@@ -56,7 +56,7 @@ Notebook
 
 {{< columns >}}
 
-{{<figure src="https://hellenshengfy.github.io/Nanyuewang.jpg">}}
+{{<figure src="https://hellenshengfy.github.io/Giza_edx.png">}}
 
 {{< column >}}
 
