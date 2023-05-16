@@ -5,10 +5,7 @@ author: Fangyuan Sheng
 slug: Essay on A History of Archaeological Thoughts
 draft: false
 toc: false
-categories:
-  - test
 tags:
-  - poem
   - English
 ---
 
