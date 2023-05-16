@@ -17,7 +17,7 @@ Professor Yan Pan
 A History of Archaeological Thoughts
 April 27, 2023   
 
-##On the birth of culture-historical archaeology
+#On the birth of culture-historical archaeology
  
 The dramatic social transformation in the late nineteen centuries catalyzed the evolution and variation of archaeology ideology. Culture-historical archaeology became undoubtedly the most important method and theory among all. From evolutionary to culture-historical archaeology, this process corresponded to the profound social and economic background in the late nineteen century and the conceptual change of archaeologists by then.
  
