@@ -65,3 +65,32 @@ I have taken various courses from online platforms since 2022. Here is a list of
 PDF
 
 {{< endcolumn >}}
+  
+## 5. 文物绘图
+
+### Zooarchaeology???
+
+{{< columns >}}
+
+{{<figure src="https://hellenshengfy.github.io/Nanyuewang.jpg">}}
+
+{{< column >}}
+
+Zhaomo 
+
+Notebook
+  
+  ## 6. 陶艺
+
+### Zooarchaeology???
+
+{{< columns >}}
+
+{{<figure src="https://hellenshengfy.github.io/Nanyuewang.jpg">}}
+
+{{< column >}}
+
+Zhaomo 
+
+Notebook
+  
