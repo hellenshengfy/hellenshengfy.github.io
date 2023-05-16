@@ -11,7 +11,8 @@ tags:
 
 {{<block class="info">}}
 The following is my essay for a class instructed by professor Yan Pan in Fudan University. The class is based on the book A History of Archaeological Thoughts by Bruce G.Trigger. 
-
+{{<end>}}
+  
 Hellen Sheng
 Professor Yan Pan
 A History of Archaeological Thoughts
