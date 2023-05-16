@@ -52,7 +52,7 @@ Notebook
 {{< endcolumn >}}
 ## 4. Online courses
 
-### Courses completed and certificates issued by MOOC and edX
+### Courses completed and certificates issued by edX, Coursera and MOOC
 
 {{< columns >}}
 
@@ -60,8 +60,8 @@ Notebook
 
 {{< column >}}
 
-Zhaomo 
+I have taken various courses from online platforms since 2022. Here is a list of courses completed by September 2023: Ancient Egyptian Art and Archarology, Recovering the Humankind's Past and Saving the Universal Heritage, Introduction to Ancient Egypt and Its Civilization, Roman Art and Archaeology and Wonders of Ancient Egypt.
 
-Notebook
+PDF
 
 {{< endcolumn >}}
