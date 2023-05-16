@@ -19,12 +19,12 @@ Hellen Sheng
 Professor Yan Pan
 A History of Archaeological Thoughts
 April 27, 2023   
- 
-   ##On the birth of culture-historical archaeology
+
+##On the birth of culture-historical archaeology
  
 The dramatic social transformation in the late nineteen centuries catalyzed the evolution and variation of archaeology ideology. Culture-historical archaeology became undoubtedly the most important method and theory among all. From evolutionary to culture-historical archaeology, this process corresponded to the profound social and economic background in the late nineteen century and the conceptual change of archaeologists by then.
  
-     ##Social and economic background 
+##Social and economic background 
  
 In 1860s, a century after the commencement of the first Industrial Revolution, the capitalism and technology upgrade exerted deeper and greater influence on the society, resulting in new economic and political landscape, social difficulties and infrastructure development. Each of them contributes to the rise of culture-historical archaeology. 
  
@@ -35,7 +35,7 @@ Secondly, social difficulties in 1880s greatly challenged the theories held by e
 Thirdly, infrastructure constructions serving for faster economic development helped to provide archaeologists with more archaeological record which makes their growing awareness of cultural difference possible. Archaeological research were conducted in vast areas in Europe along with the constructions of infrastructures like roads and factories. Classification and comparison of artifacts collected from different geographical locations caught the attention of archaeologists by then. Archaeologist had the chance to study the features of different groups of people, and were stunned by the complex variations far beyond the understanding of evolutionists. These complex cultural variations enabled archaeologist to come up with a brand new archaeological approach. 
  
  
-            ##Theoretical contributions by archaeologists before Childe
+##Theoretical contributions by archaeologists before Childe
  
 Under aforementioned circumstances, it was quite natural to see the conceptual change in archaeology and the appearance of prominent archaeologists who promoted the development of culture-historical archaeology. Before the publication of V. Gordon. Childe's The Dawn of European Civilization in 1925, which provided a detailed model for the approach and distinguished culture-historical method from evolutionary one, there were various archaeologists whose theories were non-negligible and laid foundation for the approach.
  
