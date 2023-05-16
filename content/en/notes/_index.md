@@ -52,7 +52,7 @@ Notebook
 {{< endcolumn >}}
 ## 4. Online courses
 
-### Courses and certificates from Mooc and edX
+### Courses completed and certificates issued by Mooc and edX
 
 {{< columns >}}
 
