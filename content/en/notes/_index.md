@@ -38,7 +38,7 @@ Notebook
 
  ## 3. Zooarchaeology
   
- ### Identifications of archaeological skeleton samples 
+ ### Identification of archaeological animal skeleton samples 
   
 {{< columns >}}
 
