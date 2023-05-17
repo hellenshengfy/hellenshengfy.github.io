@@ -39,7 +39,7 @@ Notebook
   ### 3. Zooarchaeology
 {{< columns >}}
 
-{{<figure-a src="https://hellenshengfy.github.io/Zooarchaeology_cover.jpg" >}}
+{{<figure-a src="https://hellenshengfy.github.io/zooarchaeology_cover.jpg" >}}
 
 - [PDF: Identifications of archaeological animal bones_sample 1](https://hellenshengfy.github.io/Identifications of archaeological animal bones_sample 1.pdf)
 - [PDF: Identifications of archaeological animal bones_sample 2](https://hellenshengfy.github.io/Identifications of archaeological animal bones_sample 2.pdf)
