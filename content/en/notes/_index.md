@@ -35,21 +35,25 @@ Notebook
 
 {{< endcolumn >}}
 
-## 3. xxxxxx
 
-### Zooarchaeology???
-
+  ### 3. Zooarchaeology
 {{< columns >}}
 
-{{<figure src="https://hellenshengfy.github.io/Nanyuewang.jpg">}}
+{{<figure-a src="https://hellenshengfy.github.io/Zooarchaeology_cover.jpg" >}}
+
+- [PDF: Identifications of archaeological animal bones_sample 1](https://hellenshengfy.github.io/Identifications of archaeological animal bones_sample 1.pdf)
+- [PDF: Identifications of archaeological animal bones_sample 2](https://hellenshengfy.github.io/Identifications of archaeological animal bones_sample 2.pdf)
+- [PDF: Identifications of archaeological animal bones_sample 3](https://hellenshengfy.github.io/Identifications of archaeological animal bones_sample 3.pdf)
 
 {{< column >}}
 
-Zhaomo 
+Identifications of archaeological skeleton samples collected from a site in Shanxi province, excavated in 2020. 
 
-Notebook
+> My sincere and hearty thanks go to Professor Dong Ningning and Mr. Wen Pengyong, who generously share their samples to me and make this project possible.
+  
 
 {{< endcolumn >}}
+  
 ## 4. Online courses
 
 ### Courses completed and certificates issued by edX, Coursera and MOOC
