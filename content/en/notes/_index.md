@@ -53,7 +53,7 @@ Notebook
 
 {{< column >}}
 
-Samples for identification were collected from a site in Dongqu, Mount Ji, Shanxi province. The site was excavated in 2020.  
+Samples for identification were collected from a site in Dongqu, Jishan County, Shanxi province. The site was excavated in 2020.  
 
 > My sincere and hearty thanks go to Ms. Dong Ningning (Fudan University) and Mr. Wen Pengyong (Fudan University) , who generously share their samples to me and make this project possible. It is their suggestions and encouragement that give me much insight into the field.
 
