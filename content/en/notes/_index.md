@@ -41,9 +41,10 @@ Notebook
 
 {{<figure src="https://hellenshengfy.github.io/zooarchaeology_cover.jpg" >}}
 
-- [PDF: Identifications of archaeological animal bones_sample 1](https://hellenshengfy.github.io/Identifications of archaeological animal bones_sample 1.pdf)
-- [PDF: Identifications of archaeological animal bones_sample 2](https://hellenshengfy.github.io/Identifications of archaeological animal bones_sample 2.pdf)
-- [PDF: Identifications of archaeological animal bones_sample 3](https://hellenshengfy.github.io/Identifications of archaeological animal bones_sample 3.pdf)
+- [PDF: Identification result_sample 1](https://hellenshengfy.github.io/Identification result_sample 1.pdf)
+- [PDF: Identification result_sample 2](https://hellenshengfy.github.io/Identification result_sample 2.pdf)
+- [PDF: Identification result_sample 3](https://hellenshengfy.github.io/Identification result_sample 3.pdf)
+
 
 {{< column >}}
 
