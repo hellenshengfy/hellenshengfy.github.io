@@ -36,15 +36,19 @@ Notebook
 {{< endcolumn >}}
 
 
-  ## 3. Zooarchaeology
-  ###Identifications of archaeological skeleton samples 
+ ## 3. Zooarchaeology
+  
+ ### Identifications of archaeological skeleton samples 
+  
 {{< columns >}}
 
 {{<figure src="https://hellenshengfy.github.io/zooarchaeology_cover.jpg" >}}
 
-- [PDF: Identification result_sample 1](https://hellenshengfy.github.io/Identification result_sample 1.pdf)
-- [PDF: Identification result_sample 2](https://hellenshengfy.github.io/Identification result_sample 2.pdf)
-- [PDF: Identification result_sample 3](https://hellenshengfy.github.io/Identification result_sample 3.pdf)
+- [PDF: Identification result_sample 1](https://hellenshengfy.github.io/result 1.pdf)
+  
+- [PDF: Identification result_sample 2](https://hellenshengfy.github.io/result 2.pdf)
+  
+- [PDF: Identification result_sample 3](https://hellenshengfy.github.io/result 3.pdf)
 
 
 {{< column >}}
