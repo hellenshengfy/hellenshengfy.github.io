@@ -36,7 +36,8 @@ Notebook
 {{< endcolumn >}}
 
 
-  ### 3. Zooarchaeology
+  ## 3. Zooarchaeology
+  ###Identifications of archaeological skeleton samples 
 {{< columns >}}
 
 {{<figure src="https://hellenshengfy.github.io/zooarchaeology_cover.jpg" >}}
@@ -48,9 +49,9 @@ Notebook
 
 {{< column >}}
 
-Identifications of archaeological skeleton samples collected from a site in Shanxi province, excavated in 2020. 
+Samples for identification were collected from a site in Dongqu, Mount Ji, Shanxi province. The site was excavated in 2020.  
 
-> My sincere and hearty thanks go to Professor Dong Ningning and Mr. Wen Pengyong, who generously share their samples to me and make this project possible.
+> My sincere and hearty thanks go to Professor Dong Ningning and Mr. Wen Pengyong, who generously share their samples to me and make this project possible. 
   
 
 {{< endcolumn >}}
