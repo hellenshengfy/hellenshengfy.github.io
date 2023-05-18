@@ -69,9 +69,9 @@ Samples for identification were collected from a site in Dongqu, Jishan County, 
 
 {{< column >}}
 
-I have taken various courses from online platforms since 2022. Here is a list of courses completed by September 2023: [Introduction to Human Evolution](https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_3+3T-2015/home), [Pyramids of Giza: Ancient Egyptian Art and Archaeology](https://www.edx.org/course/pyramids-of-giza-ancient-egyptian-art-and-archaeol?index=product&queryID=6cd7bb9d77f1f3d73f7c6f784ed6788f&position=1&search_index=product&results_level=first-level-results&term=Pyramids+of+Giza%3A+Ancient+Egyptian+Art+and+Archaeology&campaign=Pyramids+of+Giza%3A+Ancient+Egyptian+Art+and+Archaeology&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch), [Recovering the Humankind's Past and Saving the Universal Heritage](https://www.coursera.org/learn/preserving-cultural-heritage), [Introduction to Ancient Egypt and Its Civilization](https://www.coursera.org/learn/introancientegypt), [Roman Art and Archaeology](https://www.coursera.org/learn/roman-art-archaeology) and [Wonders of Ancient Egypt](https://www.coursera.org/learn/wonders-ancient-egypt).
+A list of online courses completed by September 2023: [Introduction to Human Evolution](https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_3+3T-2015/home), [Pyramids of Giza: Ancient Egyptian Art and Archaeology](https://www.edx.org/course/pyramids-of-giza-ancient-egyptian-art-and-archaeol?index=product&queryID=6cd7bb9d77f1f3d73f7c6f784ed6788f&position=1&search_index=product&results_level=first-level-results&term=Pyramids+of+Giza%3A+Ancient+Egyptian+Art+and+Archaeology&campaign=Pyramids+of+Giza%3A+Ancient+Egyptian+Art+and+Archaeology&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch), [Recovering the Humankind's Past and Saving the Universal Heritage](https://www.coursera.org/learn/preserving-cultural-heritage), [Introduction to Ancient Egypt and Its Civilization](https://www.coursera.org/learn/introancientegypt), [Roman Art and Archaeology](https://www.coursera.org/learn/roman-art-archaeology) and [Wonders of Ancient Egypt](https://www.coursera.org/learn/wonders-ancient-egypt).
 
-PDF
+PDF: Certificates (https://hellenshengfy.github.io/certificates.pdf)
 
 {{< endcolumn >}}
 
