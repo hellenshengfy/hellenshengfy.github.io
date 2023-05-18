@@ -25,7 +25,7 @@ Notebook
 
 {{< columns >}}
 
-{{<figure src="https://hellenshengfy.github.io/database.jpg">}}
+{{<figure src="https://hellenshengfy.github.io/database.png">}}
 
 {{< column >}}
 
