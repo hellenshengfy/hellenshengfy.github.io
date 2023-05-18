@@ -82,7 +82,7 @@ PDF
 
 {{< columns >}}
 
-{{<figure src="https://hellenshengfy.github.io/potter.jpg">}}
+{{<figure src="https://hellenshengfy.github.io/pottery.jpg">}}
 
 {{< column >}}
 
