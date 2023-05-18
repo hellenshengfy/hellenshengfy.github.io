@@ -74,22 +74,9 @@ I have taken various courses from online platforms since 2022. Here is a list of
 PDF
 
 {{< endcolumn >}}
+
   
-## 5. 文物绘图
-
-### Zooarchaeology???
-
-{{< columns >}}
-
-{{<figure src="https://hellenshengfy.github.io/Nanyuewang.jpg">}}
-
-{{< column >}}
-
-Zhaomo 
-
-Notebook
-  
-  ## 6. Pottery
+## 6. Pottery
 
 ### How to make your own pottery
 
@@ -99,7 +86,7 @@ Notebook
 
 {{< column >}}
 
-This is a project to make your own pottery and learn the pottery technique, under the guidance of Mr. Bao Chunlei.
+This is a project to learn the pottery technique and make your own pottery. The project is under the guidance of Mr. Bao Chunlei, a ceramist in Shanghai.
 
 [PDF](https://hellenshengfy.github.io/pottery.pdf)
   
