@@ -27,7 +27,7 @@ Notebook
 
 {{<figure src="https://hellenshengfy.github.io/database.png">}}
  
-- [Code](https://hellenshengfy.github.io/code.pdf)
+ - [PDF: Python Code](https://hellenshengfy.github.io/code.pdf)
  
 
 {{< column >}}
