@@ -29,7 +29,7 @@ Notebook
 
 {{< column >}}
 
-I participated in the project led by [Mr. Sheng Pengfei](http://www.chm.fudan.edu.cn/13/ac/c11450a398252/page.htm) and [Mr. Zhang Menghan](https://hupi.fudan.edu.cn/rcdw/rc_content.jsp?urltype=news.NewsContentUrl&wbtreeid=1127&wbnewsid=2223) (Fudan University). This project aims to build a comprehensive archaeological database and seek for pollen/gene/language evidence of possible migration in the southeast China during the Neolithic period. I am not able to share the database but I would like to share part of python code I wrote for the project to collect data from tables in pdf within seconds.
+I participated in the project led by [Mr. Sheng Pengfei](http://www.chm.fudan.edu.cn/13/ac/c11450a398252/page.htm) and [Mr. Zhang Menghan](https://hupi.fudan.edu.cn/rcdw/rc_content.jsp?urltype=news.NewsContentUrl&wbtreeid=1127&wbnewsid=2223) (Fudan University). This project aims to build a comprehensive archaeological database and seek for pollen/gene/language evidence of possible migration in the southeast China during the Neolithic period. I am not able to share the database but I would like to share part of python code I wrote for the project to collect data from a pdf document within seconds.
 
 [Code](https://hellenshengfy.github.io/code.pdf)
 
