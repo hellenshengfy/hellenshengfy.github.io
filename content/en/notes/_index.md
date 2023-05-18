@@ -76,7 +76,7 @@ PDF
 {{< endcolumn >}}
 
   
-## 6. Pottery
+## 5. Pottery
 
 ### How to make your own pottery
 
