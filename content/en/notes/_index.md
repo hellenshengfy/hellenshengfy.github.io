@@ -44,11 +44,11 @@ Notebook
 
 {{<figure src="https://hellenshengfy.github.io/zooarchaeology_cover.jpg" >}}
 
-- [PDF: Identification report 1](https://hellenshengfy.github.io/result_1.pdf)
+- [PDF: Report 1](https://hellenshengfy.github.io/result_1.pdf)
   
-- [PDF: Identification report 2](https://hellenshengfy.github.io/result_2.pdf)
+- [PDF: Report 2](https://hellenshengfy.github.io/result_2.pdf)
   
-- [PDF: Identification report 3](https://hellenshengfy.github.io/result_3.pdf)
+- [PDF: Report 3](https://hellenshengfy.github.io/result_3.pdf)
 
 
 {{< column >}}
