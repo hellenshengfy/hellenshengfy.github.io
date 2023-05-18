@@ -78,7 +78,7 @@ PDF: Certificates (https://hellenshengfy.github.io/certificates.pdf)
   
 ## 5. Pottery
 
-### How to make your own pottery
+### How to make your own pottery (ceramic)
 
 {{< columns >}}
 
@@ -86,7 +86,7 @@ PDF: Certificates (https://hellenshengfy.github.io/certificates.pdf)
 
 {{< column >}}
 
-This is a project to learn the pottery technique and make your own pottery. The project is under the guidance of Mr. Bao Chunlei, a ceramist in Shanghai.
+This is a project to learn the pottery technique and make your own pottery (ceramic). The project is under the guidance of Mr. Bao Chunlei, a ceramist in Shanghai.
 
 [PDF](https://hellenshengfy.github.io/pottery.pdf)
   
