@@ -21,8 +21,8 @@ During Miocene, the Mediterranean Sea used to be an open corridor of ocean durin
 
 However, tectonic forces changed everything. When Africa moved closer to the Middle East, the Mediterranean became a closed ocean. Miocene came to an end and the global climate changed. The tropical forest across Eurasia gave way to temperate forests, causing the extinction of many ape species. 
 
-It is a sad story, but it is also the point where human evolution begins.
+**It is a sad story, but it is also the point where human evolution begins.**
 
 
   
-References: Introduction to Human Evolution, https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_2+2T2015/home
+Reference: Introduction to Human Evolution, https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_2+2T2015/home
