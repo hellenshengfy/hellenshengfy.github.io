@@ -3,9 +3,13 @@ title: Hominids, Hominioid, Hominines, Hominins: What’s the difference?
 date: '2020-01-13'
 author: Fangyuan Sheng
 slug: second-post
-draft: true
-categories:[]
-tags:[]
+draft: false
+toc: true
+categories:
+  - test
+tags:
+  - article
+  - English
 ---
 
 # Hominids, Hominioid, Hominines, Hominins: What’s the difference?
