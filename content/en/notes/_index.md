@@ -12,7 +12,7 @@ type : nolisting
 
 {{< column >}}
 
-The St. Gallen Symposium is the world’s most relevant organisation and platform for cross-generational dialogue and collaboration. My paper *Long-term Thinking: Capital for the Future* won St. Gallen Wings of Excellence Award of the 49th St. Gallen Symposium and I was invited to the conference in Switzerland in 2019. 
+The St. Gallen Symposium is the world’s most relevant organisation and platform for cross-generational dialogue and collaboration. My paper ***Long-term Thinking: Capital for the Future*** won the **St. Gallen Wings of Excellence Award** of the 49th St. Gallen Symposium and I was invited to the conference in Switzerland in 2019. 
  
 [PDF: Long term thinking: Capital for the Future](https://hellenshengfy.github.io/static/thinking.pdf) 
 
