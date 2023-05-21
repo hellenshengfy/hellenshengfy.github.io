@@ -1,15 +1,14 @@
 ---
 title: "Misunderstandings: chimps are our ancestors/ our ancestors look like chimps"
-date: 2020-05-19
+date: "2020-05-19"
 author: Fangyuan Sheng
-slug: Misunderstandings: chimps are our ancestors/ our ancestors look like chimps 
+slug: Misunderstandings
 draft: false
 toc: false
 tags:
   - English
 ---
-  
-  
+   
 Thanks to Darwin’s theory of evolution, now we know the fact that human beings are not created by god. However, many people hold the view that (1) chimps are our ancestors and (2) our ancestors look like chimps. These are misunderstandings.  
 
 Firstly, as what I wrote in my 2020-01-07 blog, Pan is the sister clay to Homos. Roughly 7 million years ago, chimps and human beings split from evolutionary tree and evolved in their own directions. Chimps are in fact our closest relatives and thus not our ancestors. 
