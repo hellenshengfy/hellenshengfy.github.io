@@ -1,8 +1,8 @@
 ---
-title: "Anth 207x:Is evolution is directional?"
+title: "Anth 207x:Is evolution directional?"
 date: 2023-03-03
 author: Fangyuan Sheng
-slug: Anth 207x:Is evolution is directional?
+slug: Anth 207x:Is evolution directional?
 draft: false
 toc: false
 tags:
