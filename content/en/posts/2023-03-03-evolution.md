@@ -11,6 +11,9 @@ tags:
 
 {{<block class="note">}}
 I really like the edX course [Anth 207x: Introduction to Human Evolution](https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_2+2T2015/home) lectured by Professor Adam Van Arsdale of Wellesley College, and I took a series of notes to this course. This article is based on my notes.{{<end>}}
+
+{{<figure src="https://hellenshengfy.github.io/Evolution illustration.png" title="My understanding of evolution: Lego though holes">}}
+  
   
 By definition, evolution is “the heritable changes in a population through time”. It seems like that evolution has a direction (for example: from simple to complex), but it is **NOT** the case. To understand this, we need to know four basic forces of evolutionary change: mutation, gene drift, gene flow and natural selection. 
 
@@ -32,7 +35,7 @@ Natural selection is the most misleading concept among all. Natural selection sh
 
 In a nutshell, mutation, gene drift and gene flow are all random, while natural selection is kind of directional. The evolution is the outcome of these four forces and it more like a random walk. Further, I also want to point out that there is also survivor bias when we interpret “THE PATH” of evaluation. As we are more likely to observe populations that survive, we tend to neglect those who go extinct and fail to see the various possibility that evolution brings.
   
-{{<figure src="https://hellenshengfy.github.io/Evolution illustration.png" title="Hand-drawing of my understanding of evolution">}}
+
 
   
 References: 
