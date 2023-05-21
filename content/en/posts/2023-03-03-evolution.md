@@ -32,7 +32,7 @@ Natural selection is the most misleading concept among all. Natural selection sh
 
 In a nutshell, mutation, gene drift and gene flow are all random, while natural selection is kind of directional. The evolution is the outcome of these four forces and it more like a random walk. Further, I also want to point out that there is also survivor bias when we interpret “THE PATH” of evaluation. As we are more likely to observe populations that survive, we tend to neglect those who go extinct and fail to see the various possibility that evolution brings.
   
-{<figure src="https://hellenshengfy.github.io/Cover pic.jpg" title="Hand-drawing of my understanding of evolution " width="200">}}
+{<figure src="https://hellenshengfy.github.io/Evolution illustration.png" title="Hand-drawing of my understanding of evolution " width="200">}}
 
   
 References: 
