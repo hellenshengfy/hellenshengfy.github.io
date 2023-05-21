@@ -9,8 +9,8 @@ tags:
   - English
 ---
 
-{{<block class="note">}}
-As I find osteology extremely interesting, so I made a special osteology series from my notes based on [Anth 207x: Introduction to Human Evolution](https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_2+2T2015/home) lectured by Professor Adam Van Arsdale of Wellesley College. 
+{{<block class="info">}}
+As I find osteology extremely interesting, so I made a special osteology series from my notes based on [Anth 207x: Introduction to Human Evolution](https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_2+2T2015/home) lectured by Professor Adam Van Arsdale of Wellesley College. {{<end>}}
 
 Why we are bipedal creatures? There are various hypothesis: 
 
