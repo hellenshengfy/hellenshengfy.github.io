@@ -25,4 +25,4 @@ However, tectonic forces changed everything. When Africa moved closer to the Mid
 
 
   
-Reference: Introduction to Human Evolution, https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_2+2T2015/home
+Reference and photo credit to : Introduction to Human Evolution, https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_2+2T2015/home
