@@ -1,6 +1,6 @@
 ---
 title: "Anth 207x: Is evolution directional?"
-date: 2023-03-03
+date: 2022-11-03
 author: Fangyuan Sheng
 slug: Anth 207x:Is evolution directional?
 draft: false
