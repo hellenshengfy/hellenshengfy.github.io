@@ -15,7 +15,7 @@ Miocene (a period between 22 million years ago and 5 million years ago) is somet
 During Miocene, the Mediterranean Sea used to be an open corridor of ocean during instead of a closed body of water. It thus connected the Atlantic Ocean and the Indian Ocean, allowing tropical forests to grow throughout Eurasia, not limited to tropical regions.
 
 
-{<figure src="https://hellenshengfy.github.io/Cover pic.jpg" title="Hand-drawing of my understanding of evolution " width="200">}}
+{<figure src="https://hellenshengfy.github.io/miocene.jpg" title="The Mediterranean Sea used to be an open corridor">}}
 
 
 
