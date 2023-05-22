@@ -10,7 +10,7 @@ tags:
 ---
 
 {{<block class="info">}}
-The following is my essay for a class instructed by professor Yan Pan in Fudan University. The class is based on *A History of Archaeological Thoughts* by Bruce G.Trigger. 
+The following is my essay for a class instructed by professor [*Yan Pan*](http://www.chm.fudan.edu.cn/82/b4/c11450a98996/page.htm) in Fudan University. The class is based on *A History of Archaeological Thoughts* by Bruce G.Trigger. 
 {{<end>}}
   
 Hellen Sheng  
