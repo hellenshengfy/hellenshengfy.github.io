@@ -1,6 +1,6 @@
 ---
 title: "Anth 207x: Miocene: the age of apes"
-date: 2023-03-06
+date: 2022-11-06
 author: Fangyuan Sheng
 slug: Anth 207x
 draft: false
