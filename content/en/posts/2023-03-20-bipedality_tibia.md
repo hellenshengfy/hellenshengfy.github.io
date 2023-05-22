@@ -14,7 +14,7 @@ As I find osteology extremely interesting, I decide to write a special series fo
 
 # Less curved tibia
 
-Compared with the chimpanzee tibia, huamn tibia is less curved and less flexed. This is because  we human beings exclusively load our tibia from an anterior/posterior direction but chimps ***knuckwalk quadrupedally***. Chimps do a lot of different activities where tibia get involved like climing the tree. As a result, they developed a more flexed shaft.
+Compared with the chimp's tibia, human tibia is less curved and less flexed. This is because we human beings exclusively load our tibia from an anterior/posterior direction but chimps ***knuckwalk quadrupedally***. Chimps do a lot of different activities where tibia get involved like climing the tree. As a result, they developed a more flexed shaft.
 
 {{<figure src="https://hellenshengfy.github.io/zibo.jpg" title=" Photo taken from Shanghai Natural History Museum">}}
   
