@@ -1,5 +1,5 @@
 ---
-title: "How does bipedality influence our skeleton: tibia, pelvis and others_Osteology(4)"
+title: "How does bipedality influence our skeleton: tibia, pelvis and others_Osteology (4)"
 date: 2023-03-20
 author: Fangyuan Sheng
 slug: Osteology
