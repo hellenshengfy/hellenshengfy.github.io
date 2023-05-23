@@ -16,7 +16,7 @@ The St. Gallen Symposium is the world’s most relevant organisation and platfor
  
 [PDF: Long term thinking: Capital for the Future](https://hellenshengfy.github.io/static/thinking.pdf) 
 
- 
+ [Official website of St. Gallen Symposium](https://symposium.org/)
 
 {{< endcolumn >}}
 
@@ -28,11 +28,12 @@ The St. Gallen Symposium is the world’s most relevant organisation and platfor
 
 {{<figure src="https://hellenshengfy.github.io/cfa.jpg">}}
  
+ - [Official website of CFA® program](https://www.cfainstitute.org/en/programs/cfa)
+ 
  {{< column >}}
  
 CFA program is one of the highest distinctions in the investment management profession, where candidates will be tested on their knowledge about investment tools, valuing assets, portfolio management, and wealth planning. I have claimed my Level II badge and will complete the program in the coming year.
  
-{{< column >}}
  
 {{< endcolumn >}}
  
