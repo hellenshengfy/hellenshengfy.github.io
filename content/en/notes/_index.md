@@ -20,6 +20,20 @@ The St. Gallen Symposium is the world’s most relevant organisation and platfor
 
 {{< endcolumn >}}
 
+ 
+ 
+## 2. CFA program 
+
+### Chartered Financial Analyst
+
+{{< columns >}}
+
+{{<figure src="https://hellenshengfy.github.io/cfa.jpg">}}
+ 
+CFA program is one of the highest distinctions in the investment management profession, where candidates will be tested on their knowledge about investment tools, valuing assets, portfolio management, and wealth planning. I have claimed my Level II badge and will complete the program in the coming year.
+ 
+{{< column >}}
+ 
 
 ## 2. Archaeological database 
 
@@ -35,7 +49,6 @@ The St. Gallen Symposium is the world’s most relevant organisation and platfor
 {{< column >}}
 
 I participated in the project led by [Mr. Sheng Pengfei](http://www.chm.fudan.edu.cn/13/ac/c11450a398252/page.htm) and [Mr. Zhang Menghan](https://hupi.fudan.edu.cn/rcdw/rc_content.jsp?urltype=news.NewsContentUrl&wbtreeid=1127&wbnewsid=2223) (Fudan University). This project aims to build a comprehensive archaeological database and seek for pollen/gene/language evidence of possible migration in the southeast China during the Neolithic period. I am not able to share the database but I would like to share part of python code I wrote for the project to collect data from a pdf document within seconds.
-
 
 {{< endcolumn >}}
 
@@ -75,9 +88,7 @@ I helped the identification of 3 batches of animal skeleton samples collected fr
 
 {{< column >}}
 
-I have completed various online courses by September 2023: [Introduction to Human Evolution](https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_3+3T-2015/home), [Pyramids of Giza](https://www.edx.org/course/pyramids-of-giza-ancient-egyptian-art-and-archaeol?index=product&queryID=6cd7bb9d77f1f3d73f7c6f784ed6788f&position=1&search_index=product&results_level=first-level-results&term=Pyramids+of+Giza%3A+Ancient+Egyptian+Art+and+Archaeology&campaign=Pyramids+of+Giza%3A+Ancient+Egyptian+Art+and+Archaeology&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch), [Recovering the Humankind's Past and Saving the Universal Heritage](https://www.coursera.org/learn/preserving-cultural-heritage), [Introduction to Ancient Egypt and Its Civilization](https://www.coursera.org/learn/introancientegypt), [Roman Art and Archaeology](https://www.coursera.org/learn/roman-art-archaeology) and [Wonders of Ancient Egypt](https://www.coursera.org/learn/wonders-ancient-egypt).
-
-
+I have completed various online courses by September 2023: [Introduction to Human Evolution](https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_3+3T-2015/home), [Pyramids of Giza: Ancient Egyptian Art and Archaeology](https://www.edx.org/course/pyramids-of-giza-ancient-egyptian-art-and-archaeol?index=product&queryID=6cd7bb9d77f1f3d73f7c6f784ed6788f&position=1&search_index=product&results_level=first-level-results&term=Pyramids+of+Giza%3A+Ancient+Egyptian+Art+and+Archaeology&campaign=Pyramids+of+Giza%3A+Ancient+Egyptian+Art+and+Archaeology&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch), [Recovering the Humankind's Past and Saving the Universal Heritage](https://www.coursera.org/learn/preserving-cultural-heritage), [Roman Art and Archaeology](https://www.coursera.org/learn/roman-art-archaeology) and etc.
 
 {{< endcolumn >}}
 
