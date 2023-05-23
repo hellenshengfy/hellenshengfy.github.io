@@ -24,17 +24,18 @@ The St. Gallen Symposium is the world’s most relevant organisation and platfor
  
 ## 2. CFA® (Chartered Financial Analyst®) program 
 
-### 
-
 {{< columns >}}
 
 {{<figure src="https://hellenshengfy.github.io/cfa.jpg">}}
+ 
+ {{< column >}}
  
 CFA program is one of the highest distinctions in the investment management profession, where candidates will be tested on their knowledge about investment tools, valuing assets, portfolio management, and wealth planning. I have claimed my Level II badge and will complete the program in the coming year.
  
 {{< column >}}
  
-
+{{< endcolumn >}}
+ 
 ## 2. Archaeological database 
 
 {{< columns >}}
