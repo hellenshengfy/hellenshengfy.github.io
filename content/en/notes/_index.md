@@ -14,7 +14,7 @@ The St. Gallen Symposium is the world’s most relevant organisation and platfor
  
 [PDF: Long term thinking: Capital for the Future](https://hellenshengfy.github.io/static/thinking.pdf) 
 
- [Official website of St. Gallen Symposium](https://symposium.org/)
+ [Official website: St. Gallen Symposium](https://symposium.org/)
 
 {{< endcolumn >}}
 
@@ -26,7 +26,7 @@ The St. Gallen Symposium is the world’s most relevant organisation and platfor
 
 {{<figure src="https://hellenshengfy.github.io/cfa.jpg">}}
  
-- [Official website of CFA® program](https://www.cfainstitute.org/en/programs/cfa)
+- [Official website: CFA®](https://www.cfainstitute.org/en/programs/cfa)
  
  {{< column >}}
  
