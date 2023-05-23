@@ -10,14 +10,14 @@ type : nolisting
 
 {{< column >}}
 
-The [St. Gallen Symposium](https://symposium.org/) is the world’s most relevant organisation and platform for cross-generational dialogue and collaboration. My paper ***Long-term Thinking: Capital for the Future*** won the **St. Gallen Wings of Excellence Award** of the 49th St. Gallen Symposium and I was invited to the conference in Switzerland in 2019. 
+The [St. Gallen Symposium](https://symposium.org/) is the world’s most relevant organisation and platform for cross-generational dialogue and collaboration. My paper *Long-term Thinking: Capital for the Future* won the **St. Gallen Wings of Excellence Award** of the 49th St. Gallen Symposium and I was invited to the conference in Switzerland in 2019. 
  
 [PDF: Long term thinking: Capital for the Future](https://hellenshengfy.github.io/static/thinking.pdf) 
 
 {{< endcolumn >}}
  
 
-## 2. Anth 207x: Ape and Huamn Anatomy
+## 2. Notes to Anth 207x: Ape and Huamn Anatomy
 
 {{< columns >}}
 
@@ -54,7 +54,7 @@ I really like the edX course [Anth 207x: Introduction to Human Evolution](https:
  
 {{< column >}}
 
-I participated in the project led by [Mr. Sheng Pengfei](http://www.chm.fudan.edu.cn/13/ac/c11450a398252/page.htm) and [Mr. Zhang Menghan](https://hupi.fudan.edu.cn/rcdw/rc_content.jsp?urltype=news.NewsContentUrl&wbtreeid=1127&wbnewsid=2223) (Fudan University). This project aims to build a comprehensive archaeological database and seek for multidisciplinary evidence (pollen/gene/language) of possible migration of the Neolithic communities in the southeast China. I am not able to share the database but I would like to share part of python code I wrote for the project to collect data from a pdf document.
+I participated in the project led by [Mr. Sheng Pengfei](http://www.chm.fudan.edu.cn/13/ac/c11450a398252/page.htm) and [Mr. Zhang Menghan](https://hupi.fudan.edu.cn/rcdw/rc_content.jsp?urltype=news.NewsContentUrl&wbtreeid=1127&wbnewsid=2223) (Fudan University). This project aims to build a comprehensive archaeological database and seek for multidisciplinary evidence (pollen/gene/language) of possible migration of the Neolithic communities in the southeast China. I can not share the database but I would like to share part of python code I wrote for the project to collect data from a pdf document.
 
 {{< endcolumn >}}
 
