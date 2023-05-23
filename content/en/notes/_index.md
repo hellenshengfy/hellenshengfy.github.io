@@ -10,32 +10,30 @@ type : nolisting
 
 {{< column >}}
 
-The St. Gallen Symposium is the world’s most relevant organisation and platform for cross-generational dialogue and collaboration. My paper ***Long-term Thinking: Capital for the Future*** won the **St. Gallen Wings of Excellence Award** of the 49th St. Gallen Symposium and I was invited to the conference in Switzerland in 2019. 
+The [St. Gallen Symposium](https://symposium.org/) is the world’s most relevant organisation and platform for cross-generational dialogue and collaboration. My paper ***Long-term Thinking: Capital for the Future*** won the **St. Gallen Wings of Excellence Award** of the 49th St. Gallen Symposium and I was invited to the conference in Switzerland in 2019. 
  
 [PDF: Long term thinking: Capital for the Future](https://hellenshengfy.github.io/static/thinking.pdf) 
-
- [Official website: St. Gallen Symposium](https://symposium.org/)
 
 {{< endcolumn >}}
 
  
  
-## 2. CFA® (Chartered Financial Analyst) program 
+## 2. CFA® (Chartered Financial Analyst) Program 
 
 {{< columns >}}
 
 {{<figure src="https://hellenshengfy.github.io/cfa.jpg">}}
  
-- [Official website: CFA®](https://www.cfainstitute.org/en/programs/cfa)
+- [Official website: CFA®]
  
  {{< column >}}
  
-CFA program is one of the highest distinctions in the investment management profession, where candidates will be tested on their knowledge about investment tools, valuing assets, portfolio management, and wealth planning. I have claimed my Level II badge and will complete the program in the coming year.
+[CFA® program](https://www.cfainstitute.org/en/programs/cfa) is one of the highest distinctions in the investment management profession, where candidates will be tested on their knowledge about investment tools, valuing assets, portfolio management, and wealth planning. I have claimed my Level II badge and will complete the program in the coming year.
  
  
 {{< endcolumn >}}
  
-## 2. Archaeological database 
+## 2. Archaeological Database 
 
 {{< columns >}}
 
@@ -71,7 +69,7 @@ I helped the identification of 3 batches of animal skeleton samples collected fr
 
 {{< endcolumn >}}
   
-## 4. Online courses
+## 4. Online Courses
 
 {{< columns >}}
 
