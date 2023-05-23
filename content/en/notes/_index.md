@@ -22,9 +22,9 @@ The St. Gallen Symposium is the world’s most relevant organisation and platfor
 
  
  
-## 2. CFA program 
+## 2. CFA® (Chartered Financial Analyst®) program 
 
-### Chartered Financial Analyst
+### 
 
 {{< columns >}}
 
@@ -37,25 +37,20 @@ CFA program is one of the highest distinctions in the investment management prof
 
 ## 2. Archaeological database 
 
-### Multidisciplinary evidence during the Neolithic period
-
 {{< columns >}}
 
 {{<figure src="https://hellenshengfy.github.io/database.png">}}
  
  - [PDF: Python Code](https://hellenshengfy.github.io/code.pdf)
  
-
 {{< column >}}
 
-I participated in the project led by [Mr. Sheng Pengfei](http://www.chm.fudan.edu.cn/13/ac/c11450a398252/page.htm) and [Mr. Zhang Menghan](https://hupi.fudan.edu.cn/rcdw/rc_content.jsp?urltype=news.NewsContentUrl&wbtreeid=1127&wbnewsid=2223) (Fudan University). This project aims to build a comprehensive archaeological database and seek for pollen/gene/language evidence of possible migration in the southeast China during the Neolithic period. I am not able to share the database but I would like to share part of python code I wrote for the project to collect data from a pdf document within seconds.
+I participated in the project led by [Mr. Sheng Pengfei](http://www.chm.fudan.edu.cn/13/ac/c11450a398252/page.htm) and [Mr. Zhang Menghan](https://hupi.fudan.edu.cn/rcdw/rc_content.jsp?urltype=news.NewsContentUrl&wbtreeid=1127&wbnewsid=2223) (Fudan University). This project aims to build a comprehensive archaeological database and seek for **multidisciplinary evidence (pollen/gene/language)** of possible migration in the southeast China during the Neolithic period. I am not able to share the database but I would like to share part of python code I wrote for the project to collect data from a pdf document within seconds.
 
 {{< endcolumn >}}
 
 
  ## 3. Zooarchaeology
-  
- ### Identification of archaeological animal skeleton samples 
   
 {{< columns >}}
 
@@ -78,13 +73,11 @@ I helped the identification of 3 batches of animal skeleton samples collected fr
   
 ## 4. Online courses
 
-### Courses completed and certificates issued by edX, Coursera and MOOC
-
 {{< columns >}}
 
 {{<figure src="https://hellenshengfy.github.io/Giza_edx.png">}}
 
-- [PDF: Certificates](https://hellenshengfy.github.io/certificates.pdf)
+- [PDF: Certificates issued by edX and Coursera](https://hellenshengfy.github.io/certificates.pdf)
 
 {{< column >}}
 
@@ -94,8 +87,6 @@ I have completed various online courses by September 2023: [Introduction to Huma
 
   
 ## 5. Pottery
-
-### How to make your own pottery (ceramic)
 
 {{< columns >}}
 
