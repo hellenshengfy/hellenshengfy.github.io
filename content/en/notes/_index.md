@@ -24,8 +24,6 @@ The [St. Gallen Symposium](https://symposium.org/) is the world’s most relevan
 
 {{<figure src="https://hellenshengfy.github.io/cfa.jpg">}}
  
-- [Official website: CFA®]
- 
  {{< column >}}
  
 [CFA® program](https://www.cfainstitute.org/en/programs/cfa) is one of the highest distinctions in the investment management profession, where candidates will be tested on their knowledge about investment tools, valuing assets, portfolio management, and wealth planning. I have claimed my Level II badge and will complete the program in the coming year.
