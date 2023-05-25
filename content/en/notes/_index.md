@@ -74,7 +74,7 @@ I participated in the project led by [Dr. Sheng Pengfei](http://www.chm.fudan.ed
 
 {{< column >}}
 
-I helped the identification of 3 batches of animal skeleton samples collected from aN archaeological site in Dongqu, Jishan County, Shanxi Province. The site was excavated in 2020.  
+I helped the identification of 3 batches of animal skeleton samples collected from an archaeological site in Dongqu, Jishan County, Shanxi Province. The site was excavated in 2020.  
 
 > My sincere and hearty thanks go to [Dr. Dong Ningning](http://www.chm.fudan.edu.cn/78/e5/c11450a162021/page.htm) (Fudan University) and Mr. Wen Pengyong (Fudan University) , who generously share their samples to me and make this project possible. It is their suggestions and encouragement that give me much insight into the field.
 
