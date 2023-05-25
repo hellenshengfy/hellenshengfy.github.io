@@ -1,5 +1,5 @@
 ---
-title: "Why is phytoliths relatively less effective than pollen evidence in terms of paleovegetation reconstruction"
+title: " Why is phytoliths relatively less effective than pollen evidence in terms of paleovegetation reconstruction "
 date: 2023-05-02
 author: Fangyuan Sheng
 slug: phytolith
