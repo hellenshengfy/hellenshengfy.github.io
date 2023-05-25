@@ -79,6 +79,7 @@ I helped the identification of 3 batches of animal skeleton samples collected fr
 > My sincere and hearty thanks go to [Dr. Dong Ningning](http://www.chm.fudan.edu.cn/78/e5/c11450a162021/page.htm) (Fudan University) and Mr. Wen Pengyong (Fudan University) , who generously share their samples to me and make this project possible. It is their suggestions and encouragement that give me much insight into the field.
 
 {{< endcolumn >}}
+ 
   
 ## 4. Online Courses
 
