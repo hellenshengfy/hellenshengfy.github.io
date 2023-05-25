@@ -1,0 +1,23 @@
+---
+title: "Why is the "present" in BP set at 1950? "
+date: 2023-03-01
+author: Fangyuan Sheng
+slug: book
+draft: false
+toc: false
+tags:
+  - English
+---
+
+I used to think that the reason to set the ‘present’ in BP at 1950 is because of the fact that this year is quite close to the discovery year of radiometric dating method.
+
+That statement is a truth, but not the whole story. Here is the reason that is much more profound:
+
+Nuclear bomb testing during the Cold War greatly disturbed the composition of the atmosphere and led to carbon-14 bomb pulse in 1963.
+
+{{<figure src="https://hellenshengfy.github.io/bomb.png">}}
+
+Therefore, the influx of carbon-14 caused by bomb testing makes it hard to apply the method after 1950.
+
+Reference and photo credits to: https://sitn.hms.harvard.edu/flash/2017/unexpected-lessons-learned-mid-century-atomic-bomb-explosions/#:~:text=The%20rise%20in%20carbon-14%20concentration%20in%20the%20early,are%20expected%20to%20eventually%20return%20to%20baseline%20levels.
+
