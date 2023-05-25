@@ -16,6 +16,7 @@ The [St. Gallen Symposium](https://symposium.org/) is the world’s most relevan
 
 {{< endcolumn >}}
  
+ 
 
 ## 2. Notes to Anth 207x: Ape and Huamn Anatomy
 
