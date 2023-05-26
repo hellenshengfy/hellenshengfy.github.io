@@ -1,5 +1,5 @@
 ---
-title: " A clever case study: zooarchaeology as circumstantial evidence of the origins of metallurgy  "
+title: " !! A clever case study: zooarchaeology as circumstantial evidence of the origins of metallurgy  "
 date: 2023-05-13
 author: Fangyuan Sheng
 slug: catalhoyok
