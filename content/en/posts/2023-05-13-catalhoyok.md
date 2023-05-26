@@ -8,19 +8,6 @@ toc: false
 tags:
   - English
 ---
-
-
-
-Martin 2000 简介
-Russell 2005 大遗存报告. 解释一下肉量那个什么意思？
-Russell 2006 人羊合葬
-Pearson 2007 同位素
-Twiss 2009 测量数据
-Hendy 2018 蛋白质
-Russell 2019 鸟人
-
-articulated dog carcass?????
-
                                                                           Çatalhöyük 
 
 Location: A large tell site (13 hectares) in Central Anatolia.
@@ -28,15 +15,7 @@ Location: A large tell site (13 hectares) in Central Anatolia.
 Two mounds, of which : 34 acre East mound Neolithic
 
 
-
-
-
-
-
-
-
-
-
+{{<figure src="https://hellenshengfy.github.io/">}}
 
 Archaeologist: 
 1960s. James Mellaart |  70% cattle bones.   Biased （hand collection instead of sieves)
@@ -70,41 +49,6 @@ Evidence of complex mortuary ceremonialism, and possibly deliberate incineration
 
 cattle horns are incorporated into buildings in ways that leave them invisible. These occurrences, as well as the abandonment deposits, suggest that cattle horns were not just trophies for 
 display: they had non-display significance as well. 
-
-
-
-
-
-
-
-
-
-
-
-
-大遗存报告
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -177,30 +121,10 @@ Cattle horn: Famous for architectural installations. Mellaart recorded three var
 
 
 
-
-
-
-
-
-
-
-
-
 Three morphological types apparent in the Çatalhöyük horn core assemblage:
      Type 1 thought to be male Bos primigenius (wild cattle, or aurochs) ;
      Type 2 represents a variant male aurochs; 
      Type 3 female . 
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -230,44 +154,13 @@ An increasing in female and subadults in phase threee : community wide ceremonie
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ◎ Bird 
 rare in feasting deposit 
 
 
 
 
-
-
-
-
-
 Over representation of wings 
-
-
-
-
-
 
 
 
@@ -311,6 +204,25 @@ Burial:
 • many burials contain no grave goods, whereas others contain rich assemblage 
 • Very few animal involved : 2 cattle horn and 1 sheep, some birds……
 
+
+
+
+Reference:
+[1] Martin L. 2000. Hunting, herding, feasting: animal use at Neolithic Catalhoyuk, Turkey. Archaeology International: 39–42.
+ 
+[2] Russell N, Martin L. 2005. The Çatalhöyük mammal remains. Russell, N. and Martin, L. (2005) The Çatalhöyük mammal remains. In: Hodder, I., (ed.) Inhabiting Catalhoyuk: reports from the 1995-1999 seasons. McDonald Institute Monographs series: Excavation Reports (4). McDonald Institute for Archaeological Research.
+ 
+[3] Pearson JA, Buitenhuis H, Hedges REM, Martin L, Russell N, Twiss KC. 2007. New light on early caprine herding strategies from isotope analysis: a case study from Neolithic Anatolia. Journal of Archaeological Science 34: 2170–2179. DOI: 10.1016/j.jas.2007.09.001
+ 
+[4] Hendy J et al. 2018. Ancient proteins from ceramic vessels at Çatalhöyük West reveal the hidden cuisine of early farmers. Nature Communications 9: 4064. DOI: 10.1038/s41467-018-06335-6
+
+[5] Russell N, During B. 2006. Worthy is the lamb: a double burial at Neolithic Çatalhöyük (Turkey). Paléorient 3: 73–84.
+
+[6] Russell N. 2019. Spirit Birds at Neolithic Çatalhöyük. Environmental Archaeology: Special Issue: Archaeo-Ornithology: Emerging Perspectives on Past Human-Bird Relations 24: 377–386. DOI: 10.1080/14614103.2017.1422685
+ 
+[7]Twiss KC, Russell N. 2009. Taking The Bull By The Horns: Ideology, Masculinity, And Cattle Horns At Çatalhöyük (turkey). Paléorient 35: 19–32. DOI: 10.3406/paleo.2009.5296
+ 
+ 
 
 
 
