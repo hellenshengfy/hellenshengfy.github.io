@@ -20,7 +20,7 @@ This is my preparation material for a seminar on Çatalhöyük. Photos credit to
 A 13 hectares tell site in Central Anatolia. There are mainly two mounds in the area, and 34 acre East mound dated back to Neolithic period (7 400-6200 cal. BCE).
 
 
-{{<figure src="https://hellenshengfy.github.io/c1" title="Map from Pearson JA(2007)">}}
+{{<figure src="https://hellenshengfy.github.io/c1.jpg" title="Map from Pearson JA(2007)">}}
 
 # Archaeologists
   
@@ -81,13 +81,13 @@ A 13 hectares tell site in Central Anatolia. There are mainly two mounds in the 
                 3. pairs of horns set into benches. 
             — Consuming pattern: Feasting remaining (large intact joint, not smashed, most likely to be roasted in open area)
 
-{{<figure src="https://hellenshengfy.github.io/c2" title="Photo from Twiss KC (2009)">}}
+{{<figure src="https://hellenshengfy.github.io/c2.jpg" title="Photo from Twiss KC (2009)">}}
 
         2.2 Bird 
             - Rare in feasting deposit, a few appear in burial
             - Cranes: in dancing postures; vultures swooping at headless human figures (carrying soul to the heaven)
   
-  {{<figure src="https://hellenshengfy.github.io/c3" title="Photo from Russell N. (2019)">}}
+  {{<figure src="https://hellenshengfy.github.io/c3.jpg" title="Photo from Russell N. (2019)">}}
 
         2.3 Pig: Maybe taboo in later levels: forbidden to certain groups of people/ not allowed to be eaten on site 
   
