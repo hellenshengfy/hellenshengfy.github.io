@@ -37,9 +37,13 @@ If direct evidence is not the solution, the what is? Greenfield chose to analyze
 {{< column >}}
 
 (a)sharp metal blades
+  
 (b)dulled metal blades
+  
 (c)metal blades
+  
 (d)stone blades
+  
 (e)stone blades
 
 {{< endcolumn >}}
