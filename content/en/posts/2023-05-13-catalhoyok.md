@@ -87,7 +87,7 @@ A 13 hectares tell site in Central Anatolia. There are mainly two mounds in the 
             - Rare in feasting deposit, a few appear in burial
             - Cranes: in dancing postures; vultures swooping at headless human figures (carrying soul to the heaven)
   
-  {{<figure src="https://hellenshengfy.github.io/c2" title="Photo from Russell N. (2019)">}}
+  {{<figure src="https://hellenshengfy.github.io/c3" title="Photo from Russell N. (2019)">}}
 
         2.3 Pig: Maybe taboo in later levels: forbidden to certain groups of people/ not allowed to be eaten on site 
   
