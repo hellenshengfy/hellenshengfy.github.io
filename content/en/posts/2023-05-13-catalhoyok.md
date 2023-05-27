@@ -26,7 +26,7 @@ A 13 hectares tell site in Central Anatolia. There are mainly two mounds in the 
   
 | Year | Name | Zooarchaeological results on cattle|
 |---------|---------|---------|
-| 1960s | James Mellaart | Cattle constitutes 70% of the faunal assemblage which might be biased because of hand collection |
+| 1960s | James Mellaart | Cattle constitutes 70% of the faunal assemblage which might be biased because of hand collection without sieves|
 | 1993 | Ian Hodder | Cattle constitute 20-25% of the faunal assemblage and there is no indication of domestication of cattle|
 
 
@@ -53,7 +53,7 @@ A 13 hectares tell site in Central Anatolia. There are mainly two mounds in the 
              - Most indoor, very few outdoors
              - Some secondary burial 
   
-3. Spiritual life: 
+3. Spiritual Life: 
   
          1. Taboo: bird/pig/deer/leopard 
   
@@ -63,7 +63,7 @@ A 13 hectares tell site in Central Anatolia. There are mainly two mounds in the 
 
 1. Domesticated: 
 
-        1.1 Sheep and goat (Sheep: of confidence; goat: most likely) 
+        1.1 Sheep and goat (Sheep: of confidence; goat: most likely to be demesticated) 
             - Numerically dominated in animal bones.   
             - Slaughtered as juveniles or subadults
             - Wool / dairy products of little importance. 
@@ -72,7 +72,7 @@ A 13 hectares tell site in Central Anatolia. There are mainly two mounds in the 
 
          1.2 Dog
 
-2. Wild （symbolic) :
+2. Wild (symbolic) :
 
         2.1 Cattle (Special context) 
             - Famous for architectural installations and in the caches. Mellaart recorded three variants of installations:
