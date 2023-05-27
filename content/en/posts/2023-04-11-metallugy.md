@@ -27,6 +27,8 @@ In the discussion of origins of metalluurgy, our instinct is to find direct meta
   
   
 If direct evidence is not the solution, the what is? Greenfield chose to analyze cut-marks on the bone remains of animals. What a clever idea!!
+  
+ {{<figure src="https://hellenshengfy.github.io/mata0">}}
 
 {{<figure src="https://hellenshengfy.github.io/matal1">}}
   
