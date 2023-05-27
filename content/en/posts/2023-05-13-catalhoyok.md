@@ -98,6 +98,9 @@ A 13 hectares tell site in Central Anatolia. There are mainly two mounds in the 
 5. Fox/Badger/Wolf/Hare
 
 
+  
+  
+ 
 Reference:
   
 [1] Martin L. 2000. Hunting, herding, feasting: animal use at Neolithic Catalhoyuk, Turkey. Archaeology International: 39–42.
