@@ -30,13 +30,23 @@ If direct evidence is not the solution, the what is? Greenfield chose to analyze
   
  {{<figure src="https://hellenshengfy.github.io/matal0.png">}}
 
+{{< columns >}}
+
 {{<figure src="https://hellenshengfy.github.io/matal1.png">}}
-  
+
+{{< column >}}
+
 (a)sharp metal blades
 (b)dulled metal blades
 (c)metal blades
 (d)stone blades
 (e)stone blades
+
+{{< endcolumn >}}
+  
+
+  
+
 
 Cut marks can tell us information of tools.
   
