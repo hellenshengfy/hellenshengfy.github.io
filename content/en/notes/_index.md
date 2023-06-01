@@ -107,5 +107,5 @@ I have completed various online courses by September 2023: [Introduction to Huma
 
 I learned pottery technique and made my own pottery (ceramic) under the guidance of Mr. Bao Chunlei, a ceramist in Shanghai.
 
-[PDF](https://hellenshengfy.github.io/pottery.pdf)
+[PDF: Mannual book](https://hellenshengfy.github.io/pottery.pdf)
   
