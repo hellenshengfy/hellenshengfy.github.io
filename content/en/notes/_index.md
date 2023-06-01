@@ -51,7 +51,7 @@ I really like the edX course [Anth 207x: Introduction to Human Evolution](https:
 
 {{<figure src="https://hellenshengfy.github.io/database.png">}}
  
- - [PDF: Python Code](https://hellenshengfy.github.io/code.pdf)
+ - [PDF: Python Code](https://hellenshengfy.github.io/code_new.pdf)
  
 {{< column >}}
 
