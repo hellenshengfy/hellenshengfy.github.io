@@ -6,7 +6,7 @@ type : nolisting
  
 ## 
 
-  ## 1. Archaeological excavation
+  ## 1. Archaeological Excavation
 
 {{< columns >}}
 
@@ -67,7 +67,7 @@ The [St. Gallen Symposium](https://symposium.org/) is the world’s most relevan
  
 {{< column >}}
 
-I participated in the project led by [Dr. Sheng Pengfei](http://www.chm.fudan.edu.cn/13/ac/c11450a398252/page.htm) and [Dr. Zhang Menghan](https://hupi.fudan.edu.cn/rcdw/rc_content.jsp?urltype=news.NewsContentUrl&wbtreeid=1127&wbnewsid=2223) (Fudan University). This project aims to build a comprehensive archaeological database and seek for multidisciplinary evidence (pollen/gene/language) of possible migration of the Neolithic communities in the southeast China. I can not share the database but I would like to share part of python code I wrote for the project to collect data from a pdf document.
+I participated in the project led by [Dr. Sheng Pengfei](http://www.chm.fudan.edu.cn/13/ac/c11450a398252/page.htm) and [Dr. Zhang Menghan](https://hupi.fudan.edu.cn/rcdw/rc_content.jsp?urltype=news.NewsContentUrl&wbtreeid=1127&wbnewsid=2223) (Fudan University). This project aims to build a comprehensive archaeological database and seek for multidisciplinary evidence (pollen/gene/language) of possible migration of the Neolithic communities in the southeast China. I can not share the database but I would like to share some python codes I wrote for the project to collect data.
 
 {{< endcolumn >}}
 
