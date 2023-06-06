@@ -2,65 +2,26 @@
 title: My notes
 type : nolisting
 ---
-## 1. St. Gallen Symposium 
+##
+ 
+## 
+
+  ## 1. Archaeological excavation
 
 {{< columns >}}
 
-{{<figure src="https://hellenshengfy.github.io/award.jpg">}}
+{{<figure src="https://hellenshengfy.github.io/xiaoshan.png">}}
 
 {{< column >}}
 
-The [St. Gallen Symposium](https://symposium.org/) is the world’s most relevant organisation and platform for cross-generational dialogue and collaboration. My paper *Long-term Thinking: Capital for the Future* won the **St. Gallen Wings of Excellence Award** of the 49th St. Gallen Symposium and I was invited to the conference in Switzerland in 2019. 
+I joined the excavation team of Fudan University and will help the excavation of a neolithic site (Bajiabang Culture Period) located in Xiaoshan, Zhejiang, China. The excavation started in the end of June and I will update you on my story there soon. 
  
-[PDF: Long term thinking: Capital for the Future](https://hellenshengfy.github.io/thinking.pdf) 
+[PDF: My Excavation Log (comming soon!)](https://hellenshengfy.github.io/xiaoshan.pdf) 
 
 {{< endcolumn >}}
  
- 
 
-## 2. Notes to Anth 207x: Ape and Huamn Anatomy
-
-{{< columns >}}
-
-{{<figure src="https://hellenshengfy.github.io/zibo.jpg">}}
-
-{{< column >}} 
-
-I really like the edX course [Anth 207x: Introduction to Human Evolution](https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_2+2T2015/home) lectured by Professor Adam Van Arsdale of Wellesley College and find osteology and anatomy extremely interesting. So I write a series of blogs based on my notes of the class and here is the blog that wraps everything up {{<end>}}
-
- - [PDF: Ape and Human Anatomy](https://hellenshengfy.github.io/en/2023/05/10/anatomy/)
- 
- {{< endcolumn >}}
- 
-## 2. CFA® (Chartered Financial Analyst) Program 
-
-{{< columns >}}
-
-{{<figure src="https://hellenshengfy.github.io/cfa.jpg">}}
- 
- {{< column >}}
- 
-[CFA® program](https://www.cfainstitute.org/en/programs/cfa) is one of the highest distinctions in the investment management profession, where candidates will be tested on their knowledge about investment tools, valuing assets, portfolio management, and wealth planning. I have claimed my Level II badge and will complete the program in the coming year.
- 
- 
-{{< endcolumn >}}
- 
-## 2. Archaeological Database 
-
-{{< columns >}}
-
-{{<figure src="https://hellenshengfy.github.io/database.png">}}
- 
- - [PDF: Python Code](https://hellenshengfy.github.io/code_new.pdf)
- 
-{{< column >}}
-
-I participated in the project led by [Dr. Sheng Pengfei](http://www.chm.fudan.edu.cn/13/ac/c11450a398252/page.htm) and [Dr. Zhang Menghan](https://hupi.fudan.edu.cn/rcdw/rc_content.jsp?urltype=news.NewsContentUrl&wbtreeid=1127&wbnewsid=2223) (Fudan University). This project aims to build a comprehensive archaeological database and seek for multidisciplinary evidence (pollen/gene/language) of possible migration of the Neolithic communities in the southeast China. I can not share the database but I would like to share part of python code I wrote for the project to collect data from a pdf document.
-
-{{< endcolumn >}}
-
-
- ## 3. Zooarchaeology
+ ## 2. Zooarchaeology
   
 {{< columns >}}
 
@@ -79,10 +40,42 @@ I helped the identification of 3 batches of animal skeleton samples collected fr
 
 > My sincere and hearty thanks go to [Dr. Dong Ningning](http://www.chm.fudan.edu.cn/78/e5/c11450a162021/page.htm) (Fudan University) and Mr. Wen Pengyong (Fudan University) , who generously share their samples to me and make this project possible. It is their suggestions and encouragement that give me much insight into the field.
 
+{{< endcolumn >}} 
+
+ 
+  ## 3. St. Gallen Symposium 
+
+{{< columns >}}
+
+{{<figure src="https://hellenshengfy.github.io/award.jpg">}}
+
+{{< column >}}
+
+The [St. Gallen Symposium](https://symposium.org/) is the world’s most relevant organisation and platform for cross-generational dialogue and collaboration. My paper *Long-term Thinking: Capital for the Future* won the **St. Gallen Wings of Excellence Award** of the 49th St. Gallen Symposium and I was invited to the conference in Switzerland in 2019. 
+ 
+[PDF: Long term thinking: Capital for the Future](https://hellenshengfy.github.io/thinking.pdf) 
+
 {{< endcolumn >}}
  
+ ## 4. Archaeological Database 
+
+{{< columns >}}
+
+{{<figure src="https://hellenshengfy.github.io/database.png">}}
+ 
+ - [PDF: Python Code](https://hellenshengfy.github.io/code_new.pdf)
+ 
+{{< column >}}
+
+I participated in the project led by [Dr. Sheng Pengfei](http://www.chm.fudan.edu.cn/13/ac/c11450a398252/page.htm) and [Dr. Zhang Menghan](https://hupi.fudan.edu.cn/rcdw/rc_content.jsp?urltype=news.NewsContentUrl&wbtreeid=1127&wbnewsid=2223) (Fudan University). This project aims to build a comprehensive archaeological database and seek for multidisciplinary evidence (pollen/gene/language) of possible migration of the Neolithic communities in the southeast China. I can not share the database but I would like to share part of python code I wrote for the project to collect data from a pdf document.
+
+{{< endcolumn >}}
+
+
+ 
+ 
   
-## 4. Online Courses
+## 5. Online Courses
 
 {{< columns >}}
 
@@ -95,9 +88,38 @@ I helped the identification of 3 batches of animal skeleton samples collected fr
 I have completed various online courses by September 2023: [Introduction to Human Evolution](https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_3+3T-2015/home), [Pyramids of Giza](https://www.edx.org/course/pyramids-of-giza-ancient-egyptian-art-and-archaeol?index=product&queryID=6cd7bb9d77f1f3d73f7c6f784ed6788f&position=1&search_index=product&results_level=first-level-results&term=Pyramids+of+Giza%3A+Ancient+Egyptian+Art+and+Archaeology&campaign=Pyramids+of+Giza%3A+Ancient+Egyptian+Art+and+Archaeology&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch), [Recovering the Humankind's Past and Saving the Universal Heritage](https://www.coursera.org/learn/preserving-cultural-heritage), [Introduction to Ancient Egypt and Its Civilization](https://www.coursera.org/learn/introancientegypt), [Roman Art and Archaeology](https://www.coursera.org/learn/roman-art-archaeology) and [Wonders of Ancient Egypt](https://www.coursera.org/learn/wonders-ancient-egypt).
 
 {{< endcolumn >}}
+ 
+## 6. Notes to Anth 207x: Ape and Huamn Anatomy
+
+{{< columns >}}
+
+{{<figure src="https://hellenshengfy.github.io/zibo.jpg">}}
+
+{{< column >}} 
+
+I really like the edX course [Anth 207x: Introduction to Human Evolution](https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_2+2T2015/home) lectured by Professor Adam Van Arsdale of Wellesley College and find osteology and anatomy extremely interesting. So I write a series of blogs based on my notes of the class and here is the blog that wraps everything up {{<end>}}
+
+ - [PDF: Ape and Human Anatomy](https://hellenshengfy.github.io/en/2023/05/10/anatomy/)
+ 
+ {{< endcolumn >}}
+ 
+## 7. CFA® (Chartered Financial Analyst) Program 
+
+{{< columns >}}
+
+{{<figure src="https://hellenshengfy.github.io/cfa.jpg">}}
+ 
+ {{< column >}}
+ 
+[CFA® program](https://www.cfainstitute.org/en/programs/cfa) is one of the highest distinctions in the investment management profession, where candidates will be tested on their knowledge about investment tools, valuing assets, portfolio management, and wealth planning. I have claimed my Level II badge and will complete the program in the coming year.
+ 
+ 
+{{< endcolumn >}}
+ 
+
 
   
-## 5. Pottery
+## 8. Pottery
 
 {{< columns >}}
 
