@@ -16,7 +16,7 @@ type : nolisting
 
 I joined the excavation team of Fudan University and will help the excavation of a neolithic site (Bajiabang Culture Period) located in Xiaoshan, Zhejiang, China. The excavation started in the end of June and I will update you on my story there soon. 
  
-[PDF: My Excavation Log (comming soon!)](https://hellenshengfy.github.io/xiaoshan.pdf) 
+[PDF: My Excavation Log (coming soon!)](https://hellenshengfy.github.io/xiaoshan.pdf) 
 
 {{< endcolumn >}}
  
