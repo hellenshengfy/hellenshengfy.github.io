@@ -11,4 +11,4 @@ tags:
 
 Below is my translation and edited table based on materials from settlement archaeology course lectured by Dr. Liwei (Fudan University)
 
-{{<figure src="https://hellenshengfy.github.io/chinatime.jpg">}}
+{{<figure src="https://hellenshengfy.github.io/chinatime.png">}}
