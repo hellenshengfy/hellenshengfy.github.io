@@ -59,5 +59,5 @@ My summary table of major figures of ***A History of Archaeological Thought*** (
 | Walter W. Taylor |	1913-1997 |	Conjunctive approach; quantitive aspects and spatial distribution |
 | **Lewis Binford** |	1931-2011 |	**Archaeology as Anthropology; processualism; culture as ways human beings adapted to their environmental settings; ethnoarchaeology; middle range theory** |
 | Colin Renfrew |	1937-Present|	*Archaeology: Theories, Methods, and Practice* |
-| Ian Hodder |	1948-Present |Çatalhöyük Research Project,postprocessualism |
+| Ian Hodder |	1948-Present |Çatalhöyük Research Project, postprocessualism |
 
