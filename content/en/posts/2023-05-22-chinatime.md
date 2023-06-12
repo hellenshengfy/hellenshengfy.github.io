@@ -18,11 +18,11 @@ Below is my translation and edited table based on materials from settlement arch
 
 	    Strong central plain (bold red)	
       
-	    Weak central plain	(grey)
+	    Weak central plain (grey)
       
 - Second level: Five cultural regions around 		
 
-	    Strong adjacent regions	(bold orange)
+	    Strong adjacent region (bold orange)
       
 - Third level: Many other cultural zones 		
 
