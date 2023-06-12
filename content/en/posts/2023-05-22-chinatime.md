@@ -26,5 +26,6 @@ Below is my translation and edited table based on materials from settlement arch
       
 - Third level: Many other cultural zones 		
 
+**Summary table**	
 
 {{<figure src="https://hellenshengfy.github.io/chinatime.png">}}
