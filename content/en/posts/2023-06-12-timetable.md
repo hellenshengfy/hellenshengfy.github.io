@@ -1,6 +1,6 @@
 ---
 title: "Major figures mentioned by Bruce G. Trigger's Book"
-date: 2023-06-15
+date: 2023-06-12
 author: Fangyuan Sheng
 slug: Trigger
 draft: false
