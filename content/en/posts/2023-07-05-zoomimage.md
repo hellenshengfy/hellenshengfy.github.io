@@ -14,9 +14,9 @@ My mannual book to draw archaeological map using ArcGIS 10.5 based on introducto
 
 {{<end>}}
 
-{{<figure src="https://hellenshengfy.github.io/gis(1).png">}}
+{{<figure src="https://hellenshengfy.github.io/gis (1).png">}} 
 
-## Download DEM files from Geospatial Data Cloud website (www.gscloud.cn)
+## 1. Download DEM files from Geospatial Data Cloud website (www.gscloud.cn)
 
   **ZooMS**: Zooarchaeology by mass spectrometry
   
