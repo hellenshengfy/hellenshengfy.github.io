@@ -10,11 +10,13 @@ tags:
 ---
 {{<block class="note">}}
 
-I read several papers on ZooMs which is really promising and interesting. I write a summary according to papers I read and photos credit to papers too.
+My mannual book to draw archaeological map using ArcGIS 10.5 based on introductory course of [Dr. Li Wei](https://archsci.fudan.edu.cn/40/cf/c16260a409807/page.htm) (Fudan University). 
 
 {{<end>}}
 
-## Terminology
+{{<figure src="https://hellenshengfy.github.io/gis(1).png">}}
+
+## Download DEM files from Geospatial Data Cloud website (www.gscloud.cn)
 
   **ZooMS**: Zooarchaeology by mass spectrometry
   
