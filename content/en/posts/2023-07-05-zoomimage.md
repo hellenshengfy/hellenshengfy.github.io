@@ -16,7 +16,7 @@ My mannual book to draw archaeological map using ArcGIS 10.5 based on introducto
 
 {{<figure src="https://hellenshengfy.github.io/gis (2).png">}} 
 
-## Download DEM files from Geospatial Data Cloud website (www.gscloud.cn)
+**Step 1. Download DEM files from Geospatial Data Cloud website (www.gscloud.cn)**
 
   In order to illustrate prehistorical sites in Shanghai on the map, we need to download 5 datasets.
 
@@ -37,25 +37,45 @@ Target raster: the base file to be merged on. Here I choose ASTGTMV003_N30E120_d
 
 Mosaic operator is the most important option. This operator will determine the method to mosaic overlapping areas. You can find different methods in [ArcGIS official document](https://desktop.arcgis.com/en/arcmap/latest/tools/data-management-toolbox/mosaic-to-new-raster.htm) : 
 
-   -   FIRST —The output cell value of the overlapping areas will be the value from the first raster dataset mosaicked into that location.
+   -   FIRST — The output cell value of the overlapping areas will be the value from the first raster dataset mosaicked into that location.
    
-   -   LAST —The output cell value of the overlapping areas will be the value from the last raster dataset mosaicked into that location. This is the default.
+   -   LAST — The output cell value of the overlapping areas will be the value from the last raster dataset mosaicked into that location. This is the default.
    
-   -   BLEND —The output cell value of the overlapping areas will be a horizontally weighted calculation of the values of the cells in the overlapping area.
+   -   BLEND — The output cell value of the overlapping areas will be a horizontally weighted calculation of the values of the cells in the overlapping area.
    
-   -   MEAN —The output cell value of the overlapping areas will be the average value of the overlapping cells.
+   -   MEAN — The output cell value of the overlapping areas will be the average value of the overlapping cells.
   
-   -   MINIMUM —The output cell value of the overlapping areas will be the minimum value of the overlapping cells.
+   -   MINIMUM — The output cell value of the overlapping areas will be the minimum value of the overlapping cells.
   
-   -   MAXIMUM —The output cell value of the overlapping areas will be the maximum value of the overlapping cells.
+   -   MAXIMUM — The output cell value of the overlapping areas will be the maximum value of the overlapping cells.
   
-   -   SUM —The output cell value of the overlapping areas will be the total sum of the overlapping cells.
+   -   SUM — The output cell value of the overlapping areas will be the total sum of the overlapping cells.
   
 I choose the BlEND method because it gives me the best image for my files.
 
-
-
   {{<figure src="https://hellenshengfy.github.io/gis (6).png">}} 
+  
+{{<block class="info">}}
+
+Tip: you can also create a new layer to save the complete map (click "ArcToolbox" -  "Data Management Tools" - "Raster"- "Raster Dataset" - "Mosaic to New Raster" ). This method will not disturb the original file and is more convenient in most cases. But in my case, there are annoying white lines on the margin of the images, so I simply use the "Mosaic" instead of "Mosaic to New Raster". Below is the demonstration of "Mosaic to New Raster". 
+
+(1) There is no base files to be selected anymore as this method will treat each files equally.
+
+(2) You need to type in output location and file name with extension(eg: shanghai.tif). 
+
+(3) Reference to be GCS_WGS_1984. 
+
+(4) You can find the Pixal type and Number of bands of your files by right click one of the file layers and select "properties". Generally speaking, number of bands is 1.
+
+  {{<figure src="https://hellenshengfy.github.io/gis (7).png">}} 
+  
+  {{<figure src="https://hellenshengfy.github.io/gis (8).png">}} 
+
+{{<end>}}
+
+This is what complete map looks like after mosaic. Rename the layer as "shanghai_merge"
+
+  {{<figure src="https://hellenshengfy.github.io/gis (9).png">}} 
   
   **ZooMS**: Zooarchaeology by mass spectrometry
   
