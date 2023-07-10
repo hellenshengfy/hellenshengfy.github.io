@@ -58,7 +58,7 @@ I choose the BlEND method because it gives me the best image for my files.
   
 {{<block class="info">}}
 
-Tip: you can also create a new layer to save the complete map (click "ArcToolbox" -  "Data Management Tools" - "Raster"- "Raster Dataset" - "Mosaic to New Raster" ). This method will not disturb the original file and is more convenient in most cases. But in my case, there are annoying white lines on the margin of the images, so I simply use the "Mosaic" instead of "Mosaic to New Raster". Below is the demonstration of "Mosaic to New Raster". 
+You can also create a new layer to save the complete map (click "ArcToolbox" -  "Data Management Tools" - "Raster"- "Raster Dataset" - "Mosaic to New Raster" ). This method will not disturb the original file and is more convenient in most cases. But in my case, there are annoying white lines on the margin of the images, so I simply use the "Mosaic" instead of "Mosaic to New Raster". Below is the demonstration of "Mosaic to New Raster". 
 
 (1) There is no base files to be selected anymore as this method will treat each files equally.
 
