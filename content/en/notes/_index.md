@@ -12,12 +12,14 @@ type : nolisting
 
 {{<figure src="https://hellenshengfy.github.io/xiaoshan.png">}}
 
+
+ - [PDF: My Handbook of ArcGIS](https://hellenshengfy.github.io/GIS.pdf) 
+
 {{< column >}}
 
 I joined the excavation team of Fudan University and helped the excavation of a neolithic site (Bajiabang Culture Period) in Shenjiali, Hangzhou, Zhejiang, China. The excavation started in July 2023. 
  
  - [PDF: My Excavation Log](https://hellenshengfy.github.io/xiaoshan.pdf)
- - [PDF: My Handbook of ArcGIS](https://hellenshengfy.github.io/GIS.pdf) 
 
 {{< endcolumn >}}
  
