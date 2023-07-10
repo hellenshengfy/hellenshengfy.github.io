@@ -16,7 +16,7 @@ My mannual book to draw archaeological map using ArcGIS 10.5 based on introducto
 
 {{<figure src="https://hellenshengfy.github.io/gis (2).png">}} 
 
-**Step 1. Download DEM files from [Geospatial Data Cloud](www.gscloud.cn)**
+**Step 1. Download DEM files from [Geospatial Data Cloud](https://www.gscloud.cn/#page1/4)**
 
   In order to illustrate prehistorical sites in Shanghai on the map, we need to download 5 datasets.
 
