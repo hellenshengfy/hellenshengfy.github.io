@@ -1,6 +1,6 @@
 ---
-title: "A Brief Introduction on ZooMS"
-date: 2023-06-21
+title: "How to draw archaeological map using ArcGIS"
+date: 2023-07-05
 author: Fangyuan Sheng
 slug: cfa
 draft: false
