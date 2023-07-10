@@ -1,5 +1,5 @@
 ---
-title: "How to draw archaeological map using ArcGIS"
+title: "How to draw archaeological map using ArcGIS 10.5"
 date: 2023-07-05
 author: Fangyuan Sheng
 slug: cfa
@@ -14,10 +14,49 @@ My mannual book to draw archaeological map using ArcGIS 10.5 based on introducto
 
 {{<end>}}
 
-{{<figure src="https://hellenshengfy.github.io/gis (1).png">}} 
+{{<figure src="https://hellenshengfy.github.io/gis (2).png">}} 
 
-## 1. Download DEM files from Geospatial Data Cloud website (www.gscloud.cn)
+## Download DEM files from Geospatial Data Cloud website (www.gscloud.cn)
 
+  In order to illustrate prehistorical sites in Shanghai on the map, we need to download 5 datasets.
+
+  {{<figure src="https://hellenshengfy.github.io/gis (3).png">}} 
+
+  {{<figure src="https://hellenshengfy.github.io/gis (4).png">}} 
+
+##  Import all files into ArcMap (click “Add data” - select files needed)
+
+  {{<figure src="https://hellenshengfy.github.io/gis (5).png">}} 
+
+
+##  Merge files into one complete map (click "ArcToolbox" - "Data Management Tools" - "Raster"- "Raster Dataset" - "Mosaic")
+
+  Input rasters: files to be merged (you can select all the layers and then drag it into the bar to be filled) 
+
+Target raster: the base file to be merged on. Here I choose ASTGTMV003_N30E120_dem.tif as the target.
+
+Mosaic operator is the most important option. This operator will determine the method to mosaic overlapping areas. You can find different methods in [ArcGIS official document](https://desktop.arcgis.com/en/arcmap/latest/tools/data-management-toolbox/mosaic-to-new-raster.htm) : 
+
+   -   FIRST —The output cell value of the overlapping areas will be the value from the first raster dataset mosaicked into that location.
+   
+   -   LAST —The output cell value of the overlapping areas will be the value from the last raster dataset mosaicked into that location. This is the default.
+   
+   -   BLEND —The output cell value of the overlapping areas will be a horizontally weighted calculation of the values of the cells in the overlapping area.
+   
+   -   MEAN —The output cell value of the overlapping areas will be the average value of the overlapping cells.
+  
+   -   MINIMUM —The output cell value of the overlapping areas will be the minimum value of the overlapping cells.
+  
+   -   MAXIMUM —The output cell value of the overlapping areas will be the maximum value of the overlapping cells.
+  
+   -   SUM —The output cell value of the overlapping areas will be the total sum of the overlapping cells.
+  
+I choose the BlEND method because it gives me the best image for my files.
+
+
+
+  {{<figure src="https://hellenshengfy.github.io/gis (6).png">}} 
+  
   **ZooMS**: Zooarchaeology by mass spectrometry
   
   **PMF**: Collagen peptide mass fingerprinting
