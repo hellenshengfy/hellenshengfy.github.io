@@ -13,7 +13,7 @@ type : nolisting
 {{<figure src="https://hellenshengfy.github.io/xiaoshan.png">}}
 
  - [PDF: My Excavation Log](https://hellenshengfy.github.io/xiaoshan.pdf)
- - [PDF: My ArcGIS Handbook](https://hellenshengfy.github.io/GIS.pdf) 
+ - [PDF: My ArcGIS Guide](https://hellenshengfy.github.io/GIS.pdf) 
 
 {{< column >}}
 
