@@ -14,7 +14,7 @@ type : nolisting
 
 {{< column >}}
 
-I joined the excavation team of Fudan University and will help the excavation of a neolithic site (Bajiabang Culture Period) located in Shenjiali, Xiaoshan, Zhejiang, China. The excavation started in the July 2023 and this is my story there. 
+I joined the excavation team of Fudan University and helped the excavation of a neolithic site (Bajiabang Culture Period) in Shenjiali, Hangzhou, Zhejiang, China. The excavation started in July 2023. 
  
  - [PDF: My Excavation Log](https://hellenshengfy.github.io/xiaoshan.pdf)
  - [PDF: My Handbook of ArcGIS](https://hellenshengfy.github.io/GIS.pdf) 
