@@ -24,18 +24,19 @@ My mannual book to draw archaeological map using ArcGIS 10.5 based on introducto
 
   {{<figure src="https://hellenshengfy.github.io/gis (4).png">}} 
 
-##  Import all files into ArcMap (click “Add data” - select files needed)
+**Step 2. Import all files into ArcMap (click “Add data” - select files needed)**
 
   {{<figure src="https://hellenshengfy.github.io/gis (5).png">}} 
+  
+
+**Step 3. Merge files into one complete map (click "ArcToolbox" - "Data Management Tools" - "Raster"- "Raster Dataset" - "Mosaic")**
 
 
-##  Merge files into one complete map (click "ArcToolbox" - "Data Management Tools" - "Raster"- "Raster Dataset" - "Mosaic")
-
-  Input rasters: files to be merged (you can select all the layers and then drag it into the bar to be filled) 
+Input rasters: files to be merged (you can select all the layers and then drag it into the bar to be filled) 
 
 Target raster: the base file to be merged on. Here I choose ASTGTMV003_N30E120_dem.tif as the target.
 
-Mosaic operator is the most important option. This operator will determine the method to mosaic overlapping areas. You can find different methods in [ArcGIS official document](https://desktop.arcgis.com/en/arcmap/latest/tools/data-management-toolbox/mosaic-to-new-raster.htm) : 
+Mosaic operator is the most important option. This operator will determine the method to mosaic overlapping areas. You can find method descriptions in [ArcGIS official document](https://desktop.arcgis.com/en/arcmap/latest/tools/data-management-toolbox/mosaic-to-new-raster.htm) : 
 
    -   FIRST — The output cell value of the overlapping areas will be the value from the first raster dataset mosaicked into that location.
    
@@ -76,7 +77,119 @@ Tip: you can also create a new layer to save the complete map (click "ArcToolbox
 This is what complete map looks like after mosaic. Rename the layer as "shanghai_merge"
 
   {{<figure src="https://hellenshengfy.github.io/gis (9).png">}} 
-  
+
+**Step 4. Adjust the color of image**
+
+You can choose a color ramp and then go to ("Windows"- "Image Analysis") to adjust Gamma r and other parameter.
+
+{{<figure src="https://hellenshengfy.github.io/gis (10).png">}} 
+
+
+**Step 5. Draw the boundary of Shanghai City**
+
+Import shp file "市" which is file of all cities of China. Select Shanghai area after clicking "select features" on the bar.
+
+{{<figure src="https://hellenshengfy.github.io/gis (11).png">}} 
+
+Export the feature by right clicking layer "市" - "Data"- "Export Data". I name this new shp file as "mask" as I could later use this as mask if I want to focus on map of Shanghai city only. 
+
+
+{{<figure src="https://hellenshengfy.github.io/gis (12).png">}} 
+
+Click the square under the mask layer, and set it as hollow. Then it will be the boundary of SH.
+
+
+{{<figure src="https://hellenshengfy.github.io/gis (13).png">}} 
+
+
+**Step 6. Draw rivers in SH**
+
+
+(1) Import river shp file "River4_polyline" and "River5_polyline". These two files contain river info in China.
+
+{{<figure src="https://hellenshengfy.github.io/gis (14).png">}} 
+ 
+
+(2) Clip river by mask (click "ArcToolbox" -  "Analysis Tools" - "Extract"- "Clip") . *Here we use Analysis tools instead of "Data Mgt Tools" because rivers are features instead of datasets.*
+
+Import features is the feature you want to clip while the clip features is the mask you create. 
+
+
+{{<figure src="https://hellenshengfy.github.io/gis (15).png">}} 
+ 
+
+Rename the output as "river1" and "river2" and set the line type as "river" by clicking the line below the layer. 
+
+
+{{<figure src="https://hellenshengfy.github.io/gis (16).png">}} 
+
+**Step 7. Draw prehistoric sites in SH**
+
+(1) Import sites csv file 
+
+(2) Right click the layer - "Display XY data"
+
+{{<figure src="https://hellenshengfy.github.io/gis (17).png">}} 
+
+(3) Set symbology in "Layer properties". 
+
+Eg: there is area (m2) info in the csv file and I use this value to differentiate sites and thus use different symbol sizes. You can also change color of circle according to categories. 
+
+{{<figure src="https://hellenshengfy.github.io/gis (18).png">}} 
+
+
+
+**Step 7:  Cut the map**
+
+Because the whole map seems to be too large for me, I think it would be better to focus on surrounding area. Then I need to cut the map by my DIY mask.
+
+(1) Create a new shapefile named "clip". Feature type to be polygon.
+
+{{<figure src="https://hellenshengfy.github.io/gis (19).png">}} 
+
+
+(2) Click "Editor" on the bar - "Start editing" -select "clip" layer - "Create Features"- select "clip" layer and Rectangle - draw a rectangle on the area I want to focus on - "Stop editing" -save.
+
+{{<figure src="https://hellenshengfy.github.io/gis (20).png">}} 
+
+{{<figure src="https://hellenshengfy.github.io/gis (21).png">}} 
+
+
+Here you may not able to save the file in the location you want (you may see a "fail" prompt). If this happened, just save with the default name and default location. 
+
+
+(3) Extract the target area (click "ArcToolbox" -  "Spatial Analyst Tools" - "Extract by Mask")
+
+
+{{<figure src="https://hellenshengfy.github.io/gis (22).png">}} 
+    
+
+(4) After extraction, you may need to adjust the color again (repeat step 4) 
+
+**Step 8. Add Legend, North arrow, Scale bar and Grid** 
+
+
+Change to layout view (left lower corner, second button)  
+
+{{<figure src="https://hellenshengfy.github.io/gis (23).png">}} 
+
+ -  Legend, North arrow, Scale bar:  click "insert" on the bar
+
+ -  Grid: Select the border of the image and then right click "properties" -"grid"
+
+{{<figure src="https://hellenshengfy.github.io/gis (24).png">}} 
+    
+
+
+**Step 9. Final adjustment of the layout by zooming out and zooming in the area** 
+
+Adjust all other things for better illustration
+
+
+{{<figure src="https://hellenshengfy.github.io/gis (1).png">}} 
+
+
+ 
   **ZooMS**: Zooarchaeology by mass spectrometry
   
   **PMF**: Collagen peptide mass fingerprinting
@@ -97,66 +210,3 @@ This is what complete map looks like after mosaic. Rename the layer as "shanghai
 {{<figure src="https://hellenshengfy.github.io/zoom4.png">}}
 
 
-Lewis Morgan brought up the idea of "Savagery-Barbarism-Civilization" stages in his *Ancient Society*. 
-
-| Periods | Divisions |Conditions|
-|---------|---------|---------|
-|Savagery |I. Lower Status of Savagery|	 Infancy of the Human Race |
-|Savagery |II. Middle Status of Savagery|	Acquisition of a fish subsistence and a knowledge of the use of fire|
-|Savagery |III. Upper Status of Savagery|	Invention of the Bow and Arrow|
-|Barbarism |IV. Lower Status of Barbarism|	Invention of the Art of Pottery|
-|Barbarism| V. Middle Status of Barbarism|	Domestication of animals on the Eastern hemisphere, and in the Western from the cultivation of maize and plants by Irrigation, with the use of adobe-brick and stone|
-|Barbarism |VI. Upper Status of Barbarism|	Invention of the process of Smelting Iron Ore, with the use of iron tools|
-|Civilization| VII. Status of Civilization|	Invention of a Phonetic Alphabet, with the use of writing|
-
-During savergery and barbarism stage, Lewis Morgan further defined 4 organizations of society.
-
-(1) **Gens**: a body of consanguinei having a common gentile name
-  
-(2) **Phratry**: an assemblage of related gentes united in a higher association for certain common objects
-  
-(3) **Tribe**: an assemblage of gentes, usually organized in phratries, all the members of which spoke the same dialect
-  
-(4) **Confederacy of tribes**: members spoke dialects of the same stock language. It resulted in a gentile society (*societas*), as distinguished from a political society or state (*civitas*). 
-
-## Elman Service and Kwang-chih Chang 
-
-Lewis Morgan believed that social members were equal before the civilization stage, which was later disproved by other ethnographic evidence. 
-
-Elman Service came up with chiefdom stage based on new evidence in his *Primitive Social Organization* where chiefdom is the stage when social inequality emerged.
-  
-  
-Kwang-chih Chang applied this theory into the discussion of Chinese society in his discussion of Chinese bronze age.
-
-| Name | Stage 1 |Stage 2|Stage 3|Stage 4|
-|---------|---------|---------|---------|---------|
-|Service |Bands| Tribes| Chiefdoms |States |
-|Kwang-chih Chang |Paleolithic & Mesolithic| *Yangshao* Culture| *Longshan* Culture |*Xia*|
-
-
-## Su Bingqi
-  
-Based on archaeological materials in China, Su Bingqi proposed 'Three Stages' theory. Later, three models for the formation of states in China (Su 1994: 132-4) are formed:
-  
-(1) **Original Model** of northern pattern: **early states (guguo)**: marked by the ritual complex of the Hongshan culture - **regional states (fangguo)**: the proto-Great Wall of the Xiajiadian lower level culture - **empire (diguo)**: the Great Wall of China and the remains of Qin palaces;
-  
-(2) **Secondary Model** of the Central Plains: the Taosi culture, the Xia/Shang/Zhou dynasties and the unification of the Qin;
-  
-(3) **Extended Model**: the period of migration and integration of different peoples after the end of the Qin Empire.
-
-Unfortunately, terms in three stages and three models are not well defined and sometimes contradictary to each other. I jot a rough table for comparison with Kwang-chih Chang based on my understanding, which might not be appropriate.
-  
-  ### A comparison between Kwang-chih Chang and Su Bingqi
-  
-| Name | Stage 1 |Stage 2|Stage 3|Stage 4|Stage 5|
-|---------|---------|---------|---------|---------|---------|  
-|Kwang-chih Chang |Bands: Paleolithic & Mesolithic| Tribes: *Yangshao* Culture|Chiefdoms: *Longshan* Culture |States: *Xia*| -- |
-|Su Bingqi |Early cultures (guwenhua) |Early cities (gucheng) | Early states (gucheng): *Hongshan* Culture  |Regional states (fangguo): the proto-Great Wall of the Xiajiadian lower level culture| Empire (diguo): Qin Empire|
-
- 
-  Reference:
-  (1) Morgan L H, White L A. Ancient society[M]. Belknap Press of Harvard University Press, 1964.
-  (2) Hong-Yan Z.From "Chiefdom" to "Original State":the Review for the 20th Century Theories and Patterns about the Origin of the Chinese Civilization[J].Journal of Northwest University(Philosophy and Social Sciences Edition), 2013.
-  (3) Su, Bingqi. Zhongguo wenming qiyuan xintan中國文明起源新探 (new investigation of the rise of Chinese civilization). Hong Kong: Shangwu yinshuguan, 1997.
-  (4) https://courses.lumenlearning.com/suny-culturalanthropology/chapter/political_anthropology/
-  (5)張光直.中国青铜时代[M].生活・讀書・新知三联书店,1999.
