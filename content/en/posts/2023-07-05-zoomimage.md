@@ -139,7 +139,7 @@ Eg: there is area (m2) info in the csv file and I use this value to differentiat
 
 
 
-**Step 8:  Cut the map**
+**Step 8. Cut the map**
 
 Because the whole map seems to be too large for me, I think it would be better to focus on surrounding area. Then I need to cut the map by my DIY mask.
 
