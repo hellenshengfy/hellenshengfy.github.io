@@ -16,7 +16,7 @@ My mannual book to draw archaeological map using ArcGIS 10.5 based on introducto
 
 {{<figure src="https://hellenshengfy.github.io/gis (2).png">}} 
 
-**Step 1. Download DEM files from Geospatial Data Cloud website (www.gscloud.cn)**
+**Step 1. Download DEM files from [Geospatial Data Cloud](www.gscloud.cn)**
 
   In order to illustrate prehistorical sites in Shanghai on the map, we need to download 5 datasets.
 
@@ -139,7 +139,7 @@ Eg: there is area (m2) info in the csv file and I use this value to differentiat
 
 
 
-**Step 7:  Cut the map**
+**Step 8:  Cut the map**
 
 Because the whole map seems to be too large for me, I think it would be better to focus on surrounding area. Then I need to cut the map by my DIY mask.
 
@@ -166,10 +166,10 @@ Here you may not able to save the file in the location you want (you may see a "
 
 (4) After extraction, you may need to adjust the color again (repeat step 4) 
 
-**Step 8. Add Legend, North arrow, Scale bar and Grid** 
+**Step 9. Add Legend, North arrow, Scale bar and Grid** 
 
 
-Change to layout view (left lower corner, second button)  
+Switch to layout view (the second button in the lower left corner)  
 
 {{<figure src="https://hellenshengfy.github.io/gis (23).png">}} 
 
@@ -181,32 +181,11 @@ Change to layout view (left lower corner, second button)
     
 
 
-**Step 9. Final adjustment of the layout by zooming out and zooming in the area** 
+**Step 10. Final adjustment of the layout by zooming out and zooming in the area** 
 
 Adjust all other things for better illustration
 
 
 {{<figure src="https://hellenshengfy.github.io/gis (1).png">}} 
-
-
- 
-  **ZooMS**: Zooarchaeology by mass spectrometry
-  
-  **PMF**: Collagen peptide mass fingerprinting
-  
-  **MALDI-TOF MS**:  Matrix-assisted laser desorption/ionization time-of-flight mass spectrometry
-
-  **COL1**: type I collagen
-
-  **PTM**: Posttranslational modification
-
-
-{{<figure src="https://hellenshengfy.github.io/zoom1.png">}}
-
-{{<figure src="https://hellenshengfy.github.io/zoom2.png">}}
-
-{{<figure src="https://hellenshengfy.github.io/zoom3.png">}}
-
-{{<figure src="https://hellenshengfy.github.io/zoom4.png">}}
 
 
