@@ -17,7 +17,7 @@ type : nolisting
 
 {{< column >}}
 
-I joined the excavation team of Fudan University and helped the excavation of a neolithic site (Bajiabang Culture Period) in Shenjiali, Xiaoshan, Hangzhou, Zhejiang, China. The excavation started in July 2023. 
+I joined the excavation team of Fudan University and helped the excavation of Shenjiali site, a neolithic site in Hangzhou during Bajiabang Culture Period. This site is of great significance because of the possible relationship with Kuahuqiao culture. The excavation started in July 2023. 
 
  - [PDF: My Excavation Log 1](https://hellenshengfy.github.io/Journal.pdf)
  - [PDF: My Excavation Log 2](https://hellenshengfy.github.io/xiaoshan.pdf)
@@ -101,7 +101,7 @@ I have completed various online courses by September 2023: [Introduction to Huma
 
 {{< column >}} 
 
-I really like the edX course [Anth 207x: Introduction to Human Evolution](https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_2+2T2015/home) lectured by Professor Adam Van Arsdale of Wellesley College and find osteology and anatomy extremely interesting. So I write a series of blogs based on my notes of the class and here is the blog that wraps everything up {{<end>}}
+I really like the edX course [Anth 207x: Introduction to Human Evolution](https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_2+2T2015/home) lectured by Professor Adam Van Arsdale of Wellesley College and find osteology and anatomy extremely interesting. So I write a series of blogs based on my notes of the course and here is the blog that wraps everything up {{<end>}}
 
  - [PDF: Ape and Human Anatomy](https://hellenshengfy.github.io/en/2023/05/10/anatomy/)
  
