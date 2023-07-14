@@ -19,11 +19,11 @@ By definition, evolution is “the heritable changes in a population through tim
 
 ## Mutation
   
-Mutation is the change of an organism’s DNA and thus is cause of variation. There are two types of mutation: point mutation (more common and of minor influence) and chromosomal aberration (rare and of greater impact). Mutation happens randomly, and it is impossible to predict where and when mutation will happen. Thus, most mutations are harmful and neutral, and only a few is beneficial. Deleterious mutation can also cause evolutionary change, especially in small populations. For example, a mutation might cause the extinction of a population if it is happened on individuals of a small group, who carries adaptive alleles.
+Mutation is the change of an organism’s DNA and thus is the cause of variation. There are two types of mutation: point mutation (more common and of minor influence) and chromosomal aberration (rare and of greater impact). Mutation happens randomly, and it is impossible to predict where and when mutation will happen. Most mutations are harmful and neutral, and only a few is beneficial. Deleterious mutation can also cause evolutionary change, especially in small populations. For example, a mutation might cause the extinction of a population if it is happened on individuals of a small group, who carries adaptive alleles.
 
 ## Gene drift
   
-Gene drift eliminates the variation made by mutation. Gene drift can make the population to lost most of mutations, which can be explained by the random sampling of a finite population, since finite populations are unlikely to sample themselves perfectly from one generation to the next due to probability error. Eventually, the mutation and gene drift will reach its equilibrium and determine the variation level of a population.
+Gene drift eliminates the variation made by mutation. Gene drift can make the population lost most of mutations, which can be explained by the random sampling of a finite population, since finite populations are unlikely to sample themselves perfectly from one generation to the next due to probability error. Eventually, the mutation and gene drift will reach its equilibrium and determine the variation level of a population.
 
 ## Gene flow
   
