@@ -18,7 +18,7 @@ Being bipedality is a tremendous shift. It involves changes of entire skeleton:
 
 ## 1. Bicondylar angle 
 
-Being bipedal means we walk on one leg for every step and this means great weight and pressure on our legs. In order to solve this issue, our skeleton creates a ***bicondylar angle***, which helps to bring our weight closer to our midline. 
+Being bipedal means we walk on one leg for every step and thus great weight and pressure on our legs. In order to protect our legs, a ***bicondylar angle*** is formed, which brings the body weight to the midline and reduces the load on the legs. 
 
 {{<figure src="https://hellenshengfy.github.io/bicondylar_angle.jpg">}}
 
@@ -33,7 +33,7 @@ Bicondylar angle, on the one hand, means that the distal femur is medially displ
 
 ## 3. Asymmetrical pattern of bone distribution
 
-In a CT scan, we expect an asymmetrical pattern of human bone distribution and more symmetrically distributed bone in chimps. This is also becasue of the fact that we load forces on our legs from limited angles over and over agian while chimps loads femur in various angles. 
+In a CT scan, we expect an asymmetrical pattern of human bone distribution and more symmetrically distributed bone in chimps. We load forces on our legs from limited angles over and over agian during walking while chimps can load forces in various angles. 
   
 {{<figure src="https://hellenshengfy.github.io/CT_scan.jpg">}}
 
