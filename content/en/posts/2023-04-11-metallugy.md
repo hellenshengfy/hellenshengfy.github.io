@@ -17,7 +17,7 @@ All photos came from *The origins of metallurgy: distinguishing stone from metal
 
 I am amazed by the idea of "*The origins of metallurgy: distinguishing stone from metal cut-marks on bones from archaeological sites*", which turns out to be an excellent demonstration of the usage of circumstantial evidence in the investigation of the origins of metalluurgy  
 
-In the discussion of origins of metalluurgy, our instinct is to find direct metal evidence. Unfortunately, the evidence is too rare to give us a satisfying explanation. Greenfield points out that there are several reasons for the rarity of direct evidence:
+In the discussion of origins of metallurgy, it is intuitive to find direct metal evidence. Unfortunately, direct evidence is too rare to be found. Reasons for the rarity of direct evidence is also introduced in the article:
 
 (1) Actual prehistoric rarity of metal tools. 
   
