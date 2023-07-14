@@ -15,7 +15,7 @@ My summary table of major figures of ***A History of Archaeological Thought*** (
 
 | Name | Year | Accomplishments |
 |---------|---------|---------|
-| Lu Dalin | 1042-1090 |*Baogutu* |
+| Lu Dalin | 1042-1090 |*Kaogutu* |
 | John Aubrey | 1626-1697 | Plan of Avebury in *Monumenta Britannica* | 
 | Bernard de Montfaucon	 | 1655-1741 | 	*Antiquity Explained and Represented in Diagrams* |
 | William Stukeley |	1687-1765 |	View of Avebury in Abury |
