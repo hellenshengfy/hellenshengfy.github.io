@@ -17,7 +17,7 @@ This is my preparation material for a seminar on Çatalhöyük. Photos credit to
 
 # Location
   
-A 13 hectares tell site in Central Anatolia. There are mainly two mounds in the area, and 34 acre East mound dated back to Neolithic period (7 400-6200 cal. BCE).
+A 13 hectares tell site in Central Anatolia. There are mainly two mounds in the area, in which 34 acre East mound dated back to Neolithic period (7400-6200 cal. BCE).
 
 
 {{<figure src="https://hellenshengfy.github.io/c1.jpg" title="Map from Pearson JA(2007)">}}
@@ -27,7 +27,7 @@ A 13 hectares tell site in Central Anatolia. There are mainly two mounds in the 
 | Year | Name | Zooarchaeological results on cattle|
 |---------|---------|---------|
 | 1960s | James Mellaart | Cattle constitutes 70% of the faunal assemblage which might be biased because of hand collection without sieves|
-| 1993 | Ian Hodder | Cattle constitute 20-25% of the faunal assemblage and there is no indication of domestication of cattle|
+| 1993 | Ian Hodder | Cattle constitutes 20-25% of the faunal assemblage and there is no indication of cattle domestication |
 
 
 # Life in Çatalhöyük
@@ -65,10 +65,10 @@ A 13 hectares tell site in Central Anatolia. There are mainly two mounds in the 
 
         1.1 Sheep and goat (Sheep: of confidence; goat: most likely to be demesticated) 
             - Numerically dominated in animal bones.   
-            - Slaughtered as juveniles or subadults
+            - Slaughtered as juveniles or subadults.
             - Wool / dairy products of little importance. 
             - Consuming pattern : highly processed (smashed & boiled for grease) for domestic activities most likely
-            - Absent in symbolic context
+            - Absent in symbolic context.
 
          1.2 Dog
 
