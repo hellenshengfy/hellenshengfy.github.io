@@ -14,7 +14,7 @@ type : nolisting
 
  - [PDF: My ArcGIS Guide](https://hellenshengfy.github.io/GIS.pdf)
    
- - [PDF: Processing_Zhangshan site](https://hellenshengfy.github.io/Journal.pdf)
+ - [PDF: Post-fieldwork processing_Zhangshan site](https://hellenshengfy.github.io/Journal.pdf)
 
 {{< column >}}
 
