@@ -10,7 +10,7 @@ type : nolisting
 
 {{< columns >}}
 
-{{<figure src="https://hellenshengfy.github.io/shenjiali2.png">}}
+{{<figure src="https://hellenshengfy.github.io/4.jpg">}}
 
  - [PDF: My Excavation Log Zhangshan site](https://hellenshengfy.github.io/Journal.pdf)
  - [PDF: My Excavation Log Shenjiali site](https://hellenshengfy.github.io/shenjiali.pdf)
