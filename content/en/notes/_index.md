@@ -10,17 +10,17 @@ type : nolisting
 
 {{< columns >}}
 
-{{<figure src="https://hellenshengfy.github.io/shenjiali.png">}}
+{{<figure src="https://hellenshengfy.github.io/shenjiali2.png">}}
 
-
+ - [PDF: My Excavation Log Zhangshan site](https://hellenshengfy.github.io/Journal.pdf)
+ - [PDF: My Excavation Log Shenjiali site](https://hellenshengfy.github.io/shenjiali.pdf)
  - [PDF: My ArcGIS Guide](https://hellenshengfy.github.io/GIS.pdf) 
 
 {{< column >}}
 
-I joined the excavation team of Fudan University and helped the excavation of Shenjiali site, a neolithic site in Hangzhou during Bajiabang Culture Period. This site is of great significance because of the possible relationship with Kuahuqiao culture. The excavation started in July 2023. Before the excavation, I help the post-fieldwork processing of archaeological materials from Zhangshan site (Maqiao Culture period)
+I joined the excavation team of Fudan University and helped the excavation of Shenjiali site, a neolithic site in Hangzhou during Bajiabang Culture Period. This site is of great significance because of the possible relationship with Kuahuqiao culture. The excavation started in July 2023. Before the excavation, I help the post-fieldwork processing of archaeological materials from Zhangshan site (Maqiao Culture period).
 
- - [PDF: My Excavation Log 1](https://hellenshengfy.github.io/Journal.pdf)
- - [PDF: My Excavation Log 2](https://hellenshengfy.github.io/shenjiali.pdf)
+
 
 {{< endcolumn >}}
  
