@@ -10,7 +10,7 @@ type : nolisting
 
 {{< columns >}}
 
-{{<figure src="https://hellenshengfy.github.io/4.jpg">}}
+{{<figure src="https://hellenshengfy.github.io/team.jpg">}}
 
  - [PDF: My ArcGIS Guide](https://hellenshengfy.github.io/GIS.pdf)
    
