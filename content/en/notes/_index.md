@@ -12,15 +12,18 @@ type : nolisting
 
 {{<figure src="https://hellenshengfy.github.io/team.jpg">}}
 
+ - [PDF: Shenjiali site](https://hellenshengfy.github.io/shenjiali.pdf)
+   
+ - [PDF: Zhangshan site (Post-fieldwork)](https://hellenshengfy.github.io/Journal.pdf)
+
  - [PDF: My ArcGIS Guide](https://hellenshengfy.github.io/GIS.pdf)
    
- - [PDF: Post-fieldwork processing_Zhangshan](https://hellenshengfy.github.io/Journal.pdf)
-
 {{< column >}}
 
 I joined the excavation team of Fudan University and helped the excavation of **Shenjiali site**, a neolithic site in Hangzhou during Bajiabang Culture period (7000-5800BP).I also help the post-fieldwork processing of archaeological materials from **Zhangshan site** during Maqiao Culture period (3800-3500BP).
 
- [PDF: My Excavation Log_Shenjiali](https://hellenshengfy.github.io/shenjiali.pdf)
+> Dr. Li Wei's comments: "Fangyuan has shown herself a strategic thinker and a true leader on site who is able to communicate with field crews efficiently and manage human resources. I am pleased with her work very much." 
+
 
 {{< endcolumn >}}
  
