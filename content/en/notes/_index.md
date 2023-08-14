@@ -12,9 +12,9 @@ type : nolisting
 
 {{<figure src="https://hellenshengfy.github.io/team.jpg">}}
 
- - [PDF: Shenjiali site (Fieldwork)](https://hellenshengfy.github.io/shenjiali_sample.pdf)
+ - [PDF: Shenjiali site (Fieldwork)](https://hellenshengfy.github.io/sjl.pdf)
    
- - [PDF: Zhangshan site (Post-fieldwork)](https://hellenshengfy.github.io/Journal.pdf)
+ - [PDF: Zhangshan site (Post-fieldwork)](https://hellenshengfy.github.io/zs.pdf)
 
  - [PDF: My ArcGIS Guide](https://hellenshengfy.github.io/GIS.pdf)
    
