@@ -1,6 +1,6 @@
 ---
 title: "How does bipedality influence our skeleton: femur_Osteology (3)"
-date: 2022-12-30
+date: 2022-11-30
 author: Fangyuan Sheng
 slug: Osteology
 draft: false
