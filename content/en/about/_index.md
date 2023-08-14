@@ -8,8 +8,8 @@ Contact: shengfangyuan@foxmail.com
 
 ## Education
 
-- 2016 ~ 2018, M.A. in Financial Engineering and Risk Management, Beijing Foreign Studies University 
-- 2012 ~ 2016, B.A. in Financial English and Finance, Central University of Finance and Economics
+- 2017 ~ 2020, M.A. in Financial Engineering and Risk Management, Beijing Foreign Studies University 
+- 2013 ~ 2017, B.A. in Financial English and Finance, Central University of Finance and Economics
 
 ## Honors & Fellowships
 
