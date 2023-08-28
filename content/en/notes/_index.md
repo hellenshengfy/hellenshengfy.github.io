@@ -22,7 +22,7 @@ type : nolisting
 
 I joined the excavation project of **Shenjiali site** (7000-5800BP) directed by [Dr. Li Wei](https://www.chm.fudan.edu.cn/13/b9/c11450a398265/page.htm) (Fudan University) . I helped the post-fieldwork processing of archaeological materials from **Zhangshan site** (3800-3500BP). 
 
-> Dr. Li Wei's comment:"Fangyuan is talented in the field archaeology. She has shown herself a strategic thinker and a true leader on site. Her close observation on archaeological features are impressive. I am pleased with her work very much." 
+> Dr. Li Wei's comment:"Fangyuan is talented in the field archaeology. She has shown herself a strategic thinker and a true leader on site. Her close observation on archaeological features is impressive. I am pleased with her work very much." 
 
 
 {{< endcolumn >}}
