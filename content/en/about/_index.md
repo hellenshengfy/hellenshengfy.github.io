@@ -8,7 +8,7 @@ Contact: shengfangyuan@foxmail.com ; fangyuansheng.hellen@gmail.com
 
 ## Education
 - 2022 ~ 2023, Study in Fudan University
-  (Courses: *Zooarchaeology*, *Isotope Analysis*, *Archaeobotany*, *A History of Archaeological Thoughts*, *Economic Archaeology* and etc.)
+  (*Zooarchaeology*, *Isotope Analysis*, *Archaeobotany*, *A History of Archaeological Thoughts*, *Economic Archaeology* and etc.)
 - 2017 ~ 2020, M.S. in Financial Engineering and Risk Management, Beijing Foreign Studies University 
 - 2013 ~ 2017, B.A. in Financial English and Finance, Central University of Finance and Economics
 
