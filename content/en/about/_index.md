@@ -7,7 +7,7 @@ Contact: shengfangyuan@foxmail.com
 <!-- Contact: [Email](/files/email.png) -->
 
 ## Education
-
+- 2022 ~ 2023, Study in Fudan University (My course list include *Zooarchaeology*, *Isotope Analysis*, *Archaeobotany*, *A History of Archaeological Thoughts*, *Economic Archaeology* and etc.)
 - 2017 ~ 2020, M.A. in Financial Engineering and Risk Management, Beijing Foreign Studies University 
 - 2013 ~ 2017, B.A. in Financial English and Finance, Central University of Finance and Economics
 
@@ -20,6 +20,6 @@ Contact: shengfangyuan@foxmail.com
 - 2015, First Prize Academic Scholarship, Central University of Finance and Economics,Beijing, China
 
 
-## Working Experience
+## Work Experience
 - 2022 Feb, Treasury and Market Department, *DBS Bank*, Guangzhou, China
 - 2020 Aug, DCM Department, *Acuity Knowledge Partners*, Beijing, China
