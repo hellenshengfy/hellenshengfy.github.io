@@ -3,12 +3,13 @@ title: Curriculum Vitae
 type : apad
 ---
 # Fangyuan Sheng
-Contact: shengfangyuan@foxmail.com
+Contact: shengfangyuan@foxmail.com ; fangyuansheng.hellen@gmail.com
 <!-- Contact: [Email](/files/email.png) -->
 
 ## Education
-- 2022 ~ 2023, Study in Fudan University (My course list include *Zooarchaeology*, *Isotope Analysis*, *Archaeobotany*, *A History of Archaeological Thoughts*, *Economic Archaeology* and etc.)
-- 2017 ~ 2020, M.A. in Financial Engineering and Risk Management, Beijing Foreign Studies University 
+- 2022 ~ 2023, Study in Fudan University
+  (*Zooarchaeology*, *Isotope Analysis*, *Archaeobotany*, *A History of Archaeological Thoughts*, *Economic Archaeology* and etc.)
+- 2017 ~ 2020, M.S. in Financial Engineering and Risk Management, Beijing Foreign Studies University 
 - 2013 ~ 2017, B.A. in Financial English and Finance, Central University of Finance and Economics
 
 ## Honors & Fellowships
