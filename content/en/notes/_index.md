@@ -104,7 +104,7 @@ I have completed various online courses by September 2023: [Introduction to Huma
 
 {{< column >}} 
 
-I really like the edX course [Anth 207x: Introduction to Human Evolution](https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_2+2T2015/home) lectured by Professor Adam Van Arsdale of Wellesley College and find osteology and anatomy extremely interesting. So I write a series of blogs based on my notes of the course and here is the blog that wraps everything up {{<end>}}
+I really like the edX course [Anth 207x: Introduction to Human Evolution](https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_2+2T2015/home) lectured by Professor Adam Van Arsdale of Wellesley College and find osteology and anatomy extremely interesting. So I write a series of blogs based on my notes of the course and here is the blog that wraps everything up. {{<end>}}
 
  - [PDF: Ape and Human Anatomy](https://hellenshengfy.github.io/en/2023/05/10/anatomy/)
  
