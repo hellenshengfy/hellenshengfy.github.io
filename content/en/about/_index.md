@@ -21,5 +21,7 @@ Contact: shengfangyuan@foxmail.com ; fangyuansheng.hellen@gmail.com
 
 
 ## Work Experience
+- Jun 2023, Research Assistant (part-time), *Fudan University*, Shanghai, China
+- 2023 Jul, Field Work Assistant (intern), *Hangzhou Cultural Relics and Archaeology Research Institution*, Hangzhou, China 
 - 2022 Feb, Treasury and Market Department, *DBS Bank*, Guangzhou, China
 - 2020 Aug, DCM Department, *Acuity Knowledge Partners*, Beijing, China
