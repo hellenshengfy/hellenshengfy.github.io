@@ -1,6 +1,6 @@
 ---
 title: "How to draw archaeological map using ArcGIS 10.5"
-date: 2023-10-5
+date: 2023-10-05
 author: Fangyuan Sheng
 slug: cfa
 draft: false
