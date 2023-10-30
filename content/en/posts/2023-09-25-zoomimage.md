@@ -1,5 +1,5 @@
 ---
-title: "How to draw archaeological map and rectify your map using ArcGIS 10.5"
+title: "How to draw archaeological map and rectify your map using GIS"
 date: 2023-09-25
 author: Fangyuan Sheng
 slug: cfa
