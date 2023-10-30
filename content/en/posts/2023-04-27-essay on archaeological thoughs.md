@@ -1,5 +1,5 @@
 ---
-title: "On the birth of culture-historical archaeology"
+title: "[My Essay] On the birth of culture-historical archaeology"
 date: 2023-04-27
 author: Fangyuan Sheng
 slug: Essay on A History of Archaeological Thoughts
