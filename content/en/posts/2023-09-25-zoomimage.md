@@ -1,5 +1,5 @@
 ---
-title: "How to draw archaeological map using ArcGIS 10.5"
+title: "How to draw archaeological map and rectify your map using ArcGIS 10.5"
 date: 2023-09-25
 author: Fangyuan Sheng
 slug: cfa
@@ -10,7 +10,7 @@ tags:
 ---
 {{<block class="note">}}
 
-My mannual book to draw archaeological map using ArcGIS 10.5 based on introductory course of [Dr. Li Wei](https://archsci.fudan.edu.cn/40/cf/c16260a409807/page.htm) (Fudan University). 
+My mannual book to draw archaeological map using ArcGIS 10.5 based on introductory course of [Dr. Li Wei](https://archsci.fudan.edu.cn/40/cf/c16260a409807/page.htm) (Fudan University). Please click [here](https://hellenshengfy.github.io/GISrectify.pdf) for pdf of "How to rectify your map in GIS")
 
 {{<end>}}
 
