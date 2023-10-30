@@ -87,11 +87,11 @@ You can choose a color ramp and then go to ("Windows"- "Image Analysis") to adju
 
 **Step 5. Draw the boundary of Shanghai City**
 
-Import shp file "市" which is file of all cities of China. Select Shanghai area after clicking "select features" on the bar.
+Import shp file "市" which is a file of all cities of China (I get the file from Dr.Li Wei). Select Shanghai area after clicking "select features" on the bar.
 
 {{<figure src="https://hellenshengfy.github.io/gis (11).png">}} 
 
-Export the feature by right clicking layer "市" - "Data"- "Export Data". I name this new shp file as "mask" as I could later use this as mask if I want to focus on map of Shanghai city only. 
+Export the feature by right clicking layer "市" - "Data"- "Export Data". I name this new shp file as "mask" since I could later use this as a mask if I want to focus on map of Shanghai city only. 
 
 
 {{<figure src="https://hellenshengfy.github.io/gis (12).png">}} 
@@ -141,7 +141,7 @@ Eg: there is area (m2) info in the csv file and I use this value to differentiat
 
 **Step 8. Cut the map**
 
-Because the whole map seems to be too large for me, I think it would be better to focus on surrounding area. Then I need to cut the map by my DIY mask.
+Because the whole map seems to be too large for me, I think it would be better to focus on the surrounding area. Then I need to cut the map using my DIY mask.
 
 (1) Create a new shapefile named "clip". Feature type to be polygon.
 
@@ -155,7 +155,7 @@ Because the whole map seems to be too large for me, I think it would be better t
 {{<figure src="https://hellenshengfy.github.io/gis (21).png">}} 
 
 
-Here you may not able to save the file in the location you want (you may see a "fail" prompt). If this happened, just save with the default name and default location. 
+Here you may not be able to save the file in the location you want (you may see a "fail" prompt). If this happened, just save the file with the default name and default location. 
 
 
 (3) Extract the target area (click "ArcToolbox" -  "Spatial Analyst Tools" - "Extract by Mask")
@@ -164,7 +164,7 @@ Here you may not able to save the file in the location you want (you may see a "
 {{<figure src="https://hellenshengfy.github.io/gis (22).png">}} 
     
 
-(4) After extraction, you may need to adjust the color again (repeat step 4) 
+(4) After extraction, you may need to adjust the color again (repeat the step 4) 
 
 **Step 9. Add Legend, North arrow, Scale bar and Grid** 
 
@@ -183,7 +183,7 @@ Switch to layout view (the second button in the lower left corner)
 
 **Step 10. Final adjustment of the layout by zooming out and zooming in the area** 
 
-Adjust all other things for better illustration
+Adjust all other things for better illustration.
 
 
 {{<figure src="https://hellenshengfy.github.io/gis (1).png">}} 
