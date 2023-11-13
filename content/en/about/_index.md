@@ -9,13 +9,13 @@ Contact: shengfangyuan@foxmail.com ; fangyuansheng.hellen@gmail.com
 
 {{< columns >}}
 
-{{<figure src="https://hellenshengfy.github.io/bank.jpg">}}
+{{<figure src="https://hellenshengfy.github.io/office.jpg">}}
 
  - Fangyuan in the office
    
 {{< column >}}
 
-I worked as a financial analyst in DBS Bank to facilitate invesment banking business and fund raising in the global market. I collaberate with international teams to issue offshore bond demoninated in a range of currencies (USD/EUR/HKD/SGD/CHY). My responsibilities encompassed financial model building, financial product pricing, financial statement spreading, legal document checking, government bond bidding and more. Basically, I dealt with issues related to math, law, and market.
+I worked as a financial analyst in DBS Bank to facilitate invesment banking business and global fund raising. I collaberate with international teams to issue offshore bond demoninated in a range of currencies (USD/EUR/HKD/SGD/CHY). My responsibilities encompassed financial model building, financial product pricing, financial statement spreading, legal document checking, government bond bidding and more. Basically, I dealt with issues related to math, law, and market.
 
 {{< endcolumn >}}
 
