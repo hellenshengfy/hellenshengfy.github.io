@@ -11,7 +11,7 @@ Contact: shengfangyuan@foxmail.com ; fangyuansheng.hellen@gmail.com
 
 {{<figure src="https://hellenshengfy.github.io/office.jpg">}}
 
- - Fangyuan in the office
+ - Fangyuan (Left) in the Office
    
 {{< column >}}
 
@@ -24,7 +24,7 @@ I worked as a financial analyst in DBS Bank to facilitate invesment banking busi
 
 {{<figure src="https://hellenshengfy.github.io/field.jpg">}}
 
-  - Fangyuan in the field
+  - Fangyuan in the Field
    
 {{< column >}}
 
