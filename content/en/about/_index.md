@@ -28,11 +28,13 @@ I worked as a financial analyst in DBS Bank to facilitate invesment banking busi
    
 {{< column >}}
 
-I enjoyed my time in the museums and the field even more. In 2019, I **backpacked around Europe** and visited over 20 museums there. In 2023, I had the opportunity to excavate a neolithic site in China, where I felt immense satisfaction and freedom. Holding unearthed potsherds in my hand, I felt **a connection to thousands of years ago**, a feeling unlike anything I had experienced before. It is through this kind of feeling that I have come to be certain about my passion for archaeology.
+I enjoyed my time in the museums and the field even more. In 2019, I **backpacked around Europe** and visited over 20 museums there. In 2023, I had the opportunity to excavate a neolithic site in China, where I felt immense satisfaction and freedom. Holding potsherds in my hand, I felt **a connection to thousands of years ago**, a feeling unlike anything I had experienced before. It is through this kind of feeling that I have come to be certain about my passion for archaeology.
 
 {{< endcolumn >}}
 
 ## My Curriculum Vitae
+
+{{< columns >}}
 
 ### Education
 - 2023, Study in Fudan University (Course list: *Zooarchaeology*, *Isotope Analysis*,*A History of Archaeological Thoughts*, *Economic Archaeology* and etc.)
@@ -51,4 +53,5 @@ I enjoyed my time in the museums and the field even more. In 2019, I **backpacke
 - 2022 Feb, Treasury and Market Department, *DBS Bank*, Guangzhou, China
 - 2020 Aug, DCM Department, *Acuity Knowledge Partners*, Beijing, China
 
+{{< endcolumn >}}
 
