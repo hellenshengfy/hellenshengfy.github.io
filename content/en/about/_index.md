@@ -11,7 +11,7 @@ Contact: shengfangyuan@foxmail.com ; fangyuansheng.hellen@gmail.com
 
 {{<figure src="https://hellenshengfy.github.io/bank.jpg">}}
 
- - Me (Left) in the Office
+ - Me in the Office
    
 {{< column >}}
 
