@@ -5,6 +5,34 @@ type : apad
 # Fangyuan Sheng
 Contact: shengfangyuan@foxmail.com ; fangyuansheng.hellen@gmail.com
 
+## My Double Life 
+
+{{< columns >}}
+
+{{<figure src="https://hellenshengfy.github.io/bank.jpg">}}
+
+ - Fangyuan in the office
+   
+{{< column >}}
+
+I worked as a financial analyst in DBS Bank to facilitate invesment banking business and fund raising in the global market. I collaberate with international teams to issue offshore bond demoninated in a range of currencies (USD/EUR/HKD/SGD/CHY). My responsibilities encompassed financial model building, financial product pricing, financial statement spreading, legal document checking, government bond bidding and more. Basically, I dealt with issues related to math, law, and market.
+
+{{< endcolumn >}}
+
+
+ {{< columns >}}
+
+{{<figure src="https://hellenshengfy.github.io/field.jpg">}}
+
+  - Fangyuan in the field
+   
+{{< column >}}
+
+I enjoyed my time in the museums and the field even more. In 2019, I backpacked around Europe and visited over 20 museums there, adding depth and breadth to my cultural understanding. In 2023, I had the opportunity to excavate a neolithic site in China, where I felt immense satisfaction and freedom. Holding a potsherd in my hand, I felt a connection to thousands of years ago, a feeling unlike anything I had experienced before.    
+
+{{< endcolumn >}}
+
+
 ## Education
 - 2023, Study in Fudan University (Course list: *Zooarchaeology*, *Isotope Analysis*,*A History of Archaeological Thoughts*, *Economic Archaeology* and etc.)
 - 2017 ~ 2020, M.S. in Financial Engineering and Risk Management, Beijing Foreign Studies University 
@@ -22,26 +50,4 @@ Contact: shengfangyuan@foxmail.com ; fangyuansheng.hellen@gmail.com
 - 2022 Feb, Treasury and Market Department, *DBS Bank*, Guangzhou, China
 - 2020 Aug, DCM Department, *Acuity Knowledge Partners*, Beijing, China
 
-  ## 1. Fangyuan in the investment bank
 
-{{< columns >}}
-
-{{<figure src="https://hellenshengfy.github.io/team.jpg">}}
-   
-{{< column >}}
-
-I worked as a financial analyst to facilitate fund raising of the global market. I collaberate with international teams to issue offshore bond demoninated in a range of currencies (USD/EUR/HKD/SGD/CHY). My responsibilities encompassed financial model building, financial product pricing, financial statement spreading, legal document checking, government bond bidding and more. Basically, I dealt with issues related to math, law, and market.
-
-{{< endcolumn >}}
-
-  ## 2. Fangyuan in the archaeological field
-
- {{< columns >}}
-
-{{<figure src="https://hellenshengfy.github.io/team.jpg">}}
-   
-{{< column >}}
-
-I enjoyed my time in the museums and the field even more. In 2019, I backpacked around Europe and visited over 20 museums there, adding depth and breadth to my cultural understanding. In 2023, I had the opportunity to excavate a neolithic site in China, where I felt immense satisfaction and freedom. Holding a potsherd in my hand, I felt a connection to thousands of years ago, a feeling unlike anything I had experienced before.    
-
-{{< endcolumn >}}
