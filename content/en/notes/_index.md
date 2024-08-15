@@ -19,6 +19,8 @@ I interned in the excavation project at Yinxu, directed by [Mr. Niu Shishan](htt
 
 > Mr. Niu Shishan's comment:"Fangyuan is a fast learner in the field. She demonstrates skill in bronze vessel painting." 
 
+{{< endcolumn >}}
+
 
  ## 2. Archaeological Excavation at Shenjiali site
 
