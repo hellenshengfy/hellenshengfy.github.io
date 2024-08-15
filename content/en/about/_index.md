@@ -28,12 +28,13 @@ I worked as a financial analyst in DBS Bank to facilitate **invesment banking bu
    
 {{< column >}}
 
-I enjoyed my time in the museums and the field even more. In 2019, I **backpacked around Europe** and visited over 20 museums there. In 2023, I had the opportunity to excavate a neolithic site in China, where I felt immense satisfaction and freedom. Holding potsherds in my hand, I felt **a connection to thousands of years ago**, a feeling unlike anything I had experienced before. It is through this kind of feeling that I have come to be certain about my passion for archaeology.
+I enjoyed my time in the museums and the field even more. In 2019, I **backpacked around Europe** and visited over 20 museums there. In 2023, I had the opportunity to excavate a neolithic site in China, where I felt immense satisfaction and freedom. Holding potsherds in my hand, I felt **a connection to thousands of years ago**, a feeling unlike anything I had experienced before. It is through this kind of feeling that I have come to be certain about my passion for archaeology. In 2024, I participated in the **excavation project at Yinxu**, the ruins of the last capital of China's Shang Dynasty.
 
 {{< endcolumn >}}
 
 
 ## Education
+- 2024 ~ 2025, M.A in Durham University
 - 2023, Study in Fudan University (Course list: *Zooarchaeology*, *Isotope Analysis*,*A History of Archaeological Thoughts*, *Economic Archaeology* and etc.)
 - 2017 ~ 2020, M.S. in Financial Engineering and Risk Management, Beijing Foreign Studies University 
 - 2013 ~ 2017, B.A. in Financial English and Finance, Central University of Finance and Economics
@@ -45,6 +46,7 @@ I enjoyed my time in the museums and the field even more. In 2019, I **backpacke
 - 2015, National Business English Practice Contest (Championship of North China), Committee for International Business English Studies of CCOIC Commercial Chamber of Commerce (CIBES), Beijing, China
 
 ## Work Experience
+- 2024 Jun, Field Work Assistant (intern), Anyang Workstation at the Institute of Archaeology of the Chinese Academy of Sciences (CASS), Anyang, Henan, China
 - 2023 Jun, Research Assistant (part-time), *Fudan University*, Shanghai, China
 - 2023 Jul, Field Work Assistant (intern), *Hangzhou Cultural Relics and Archaeology Research Institution*, Hangzhou, China 
 - 2022 Feb, Treasury and Market Department, *DBS Bank*, Guangzhou, China
