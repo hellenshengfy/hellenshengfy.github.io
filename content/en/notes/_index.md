@@ -77,6 +77,7 @@ The [St. Gallen Symposium](https://symposium.org/) is the world’s most relevan
 [PDF: Long term thinking: Capital for the Future](https://hellenshengfy.github.io/thinking.pdf) 
 
 {{< endcolumn >}}
+
  
  ## 5. Archaeological Database 
 
@@ -94,21 +95,7 @@ I participated in the project led by [Dr. Sheng Pengfei](http://www.chm.fudan.ed
 
 
  
-## 6. Notes to Anth 207x: Ape and Huamn Anatomy
-
-{{< columns >}}
-
-{{<figure src="https://hellenshengfy.github.io/zibo.jpg">}}
-
-{{< column >}} 
-
-I really like the edX course [Anth 207x: Introduction to Human Evolution](https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_2+2T2015/home) lectured by Professor Adam Van Arsdale of Wellesley College and find osteology and anatomy extremely interesting. So I write a series of blogs based on my notes of the course and here is the blog that wraps everything up. {{<end>}}
-
- - [PDF: Ape and Human Anatomy](https://hellenshengfy.github.io/en/2023/05/10/anatomy/)
- 
- {{< endcolumn >}}
- 
-## 7. CFA® (Chartered Financial Analyst) Program 
+## 6. CFA® (Chartered Financial Analyst) Program 
 
 {{< columns >}}
 
@@ -124,7 +111,7 @@ I really like the edX course [Anth 207x: Introduction to Human Evolution](https:
 
 
   
-## 8. Pottery
+## 7. Pottery
 
 {{< columns >}}
 
