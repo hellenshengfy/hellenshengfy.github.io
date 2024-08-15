@@ -46,7 +46,7 @@ I enjoyed my time in the museums and the field even more. In 2019, I **backpacke
 - 2015, National Business English Practice Contest (Championship of North China), Committee for International Business English Studies of CCOIC Commercial Chamber of Commerce (CIBES), Beijing, China
 
 ## Work Experience
-- 2024 Jun, Field Work Assistant (intern), Anyang Workstation at the Institute of Archaeology of the Chinese Academy of Sciences (CASS), Anyang, Henan, China
+- 2024 Jun, Field Work Assistant (intern), Anyang Workstation at the *Institute of Archaeology of the Chinese Academy of Sciences (CASS)*, Anyang, Henan, China
 - 2023 Jun, Research Assistant (part-time), *Fudan University*, Shanghai, China
 - 2023 Jul, Field Work Assistant (intern), *Hangzhou Cultural Relics and Archaeology Research Institution*, Hangzhou, China 
 - 2022 Feb, Treasury and Market Department, *DBS Bank*, Guangzhou, China
