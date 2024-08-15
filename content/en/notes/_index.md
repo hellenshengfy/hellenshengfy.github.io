@@ -6,7 +6,7 @@ type : nolisting
  
 ## 
 
-  ## 1. Archaeological Excavation at Yinxu
+## 1. Archaeological Excavation at Yinxu
 
 {{< columns >}}
 
