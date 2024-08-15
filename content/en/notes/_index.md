@@ -6,7 +6,21 @@ type : nolisting
  
 ## 
 
-  ## 1. Archaeological Excavation
+  ## 1. Archaeological Excavation at Yinxu
+
+{{< columns >}}
+
+{{<figure src="https://hellenshengfy.github.io/yinxu.jpg">}}
+
+   
+{{< column >}}
+
+I interned in the excavation project at Yinxu, directed by [Mr. Niu Shishan] (http://kaogu.cssn.cn/zwb/ryxxk/201311/t20131110_3927582.shtml)，the leading researcher at the Anyang Workstation of the Archaeology Institute, Chinese Academy of Social Sciences.During this internship, I gained extensive knowledge in archaeological excavation and survey.
+
+> Mr. Niu Shishan's comment:"Fangyuan is a fast learner in the field and demonstrates skill in bronze vessel painting." 
+
+
+ ## 2. Archaeological Excavation at Shenjiali site
 
 {{< columns >}}
 
@@ -28,7 +42,7 @@ I joined the excavation project of **Shenjiali site** (7000-5800BP) directed by 
 {{< endcolumn >}}
  
 
- ## 2. Zooarchaeology
+ ## 3. Zooarchaeology
   
 {{< columns >}}
 
@@ -50,7 +64,7 @@ I helped the identification of 3 batches of animal skeleton samples collected fr
 {{< endcolumn >}} 
 
  
-  ## 3. St. Gallen Symposium 
+  ## 4. St. Gallen Symposium 
 
 {{< columns >}}
 
@@ -64,7 +78,7 @@ The [St. Gallen Symposium](https://symposium.org/) is the world’s most relevan
 
 {{< endcolumn >}}
  
- ## 4. Archaeological Database 
+ ## 5. Archaeological Database 
 
 {{< columns >}}
 
@@ -79,22 +93,6 @@ I participated in the project led by [Dr. Sheng Pengfei](http://www.chm.fudan.ed
 {{< endcolumn >}}
 
 
- 
- 
-  
-## 5. Online Courses
-
-{{< columns >}}
-
-{{<figure src="https://hellenshengfy.github.io/Giza_edx.png">}}
-
-- [PDF: Certificates issued by edX and Coursera](https://hellenshengfy.github.io/certificates.pdf)
-
-{{< column >}}
-
-I have completed various online courses by September 2023: [Introduction to Human Evolution](https://learning.edx.org/course/course-v1:WellesleyX+ANTH207x_3+3T-2015/home), [Pyramids of Giza](https://www.edx.org/course/pyramids-of-giza-ancient-egyptian-art-and-archaeol?index=product&queryID=6cd7bb9d77f1f3d73f7c6f784ed6788f&position=1&search_index=product&results_level=first-level-results&term=Pyramids+of+Giza%3A+Ancient+Egyptian+Art+and+Archaeology&campaign=Pyramids+of+Giza%3A+Ancient+Egyptian+Art+and+Archaeology&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch), [Recovering the Humankind's Past and Saving the Universal Heritage](https://www.coursera.org/learn/preserving-cultural-heritage), [Introduction to Ancient Egypt and Its Civilization](https://www.coursera.org/learn/introancientegypt), [Roman Art and Archaeology](https://www.coursera.org/learn/roman-art-archaeology) and [Wonders of Ancient Egypt](https://www.coursera.org/learn/wonders-ancient-egypt).
-
-{{< endcolumn >}}
  
 ## 6. Notes to Anth 207x: Ape and Huamn Anatomy
 
