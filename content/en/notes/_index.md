@@ -15,7 +15,7 @@ type : nolisting
    
 {{< column >}}
 
-I interned in the excavation project at Yinxu, directed by [Mr. Niu Shishan](http://kaogu.cssn.cn/zwb/ryxxk/201311/t20131110_3927582.shtml), the leading researcher at the Anyang Workstation of the Archaeology Institute, Chinese Academy of Social Sciences. During this internship, I gained extensive knowledge in archaeological excavation, drawing and survey.
+I interned on the excavation project at Yinxu, directed by [Mr. Niu Shishan](http://kaogu.cssn.cn/zwb/ryxxk/201311/t20131110_3927582.shtml), a leading researcher at the Anyang Workstation of the Institute of Archaeology, Chinese Academy of Social Sciences. During this internship, I gained hands-on experience in archaeological excavation, recording, and survey techniques.
 
 > Mr. Niu Shishan's comment:"Fangyuan is a quick and dedicated learner who has demonstrated strong skills in bronze vessel illustration. Her passion for archaeology is evident in both her academic work and field performance." 
 
