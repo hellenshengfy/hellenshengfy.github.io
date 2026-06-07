@@ -12,7 +12,7 @@ My academic background in finance and quantitative analysis, combined with my tr
 
 Do it now and leave no regret in your life.
 
-欢迎来到我的个人主页！我于2020年毕业于北京外国语大学](http://en.bfsu.edu.cn/)，获得金融工程与风险管理硕士学位；此前毕业于[中央财经大学](http://en.cufe.edu.cn/)，主修金融英语，辅修金融学。2020年8月至2022年11月期间，我在债务资本市场领域担任金融分析师，并通过了CFA](https://www.cfainstitute.org/)（二级）考试。
+欢迎来到我的个人主页！我于2020年毕业于[北京外国语大学](http://en.bfsu.edu.cn/)，获得金融工程与风险管理硕士学位；此前毕业于[中央财经大学](http://en.cufe.edu.cn/)，主修金融英语，辅修金融学。2020年8月至2022年11月期间，我在债务资本市场领域担任金融分析师，并通过了[CFA](https://www.cfainstitute.org/)（二级）考试。
 
 自幼以来，我一直对考古学怀有浓厚兴趣。为了追寻这一长期以来的热爱，我选择攻读第二个硕士学位，并进入[Durham University](https://www.durham.ac.uk/) 学习考古学。我以优异成绩（Distinction）毕业，并逐渐将研究兴趣集中于经济考古学和陶器研究，探索物质文化如何为理解古代经济、贸易网络以及社会组织提供重要线索。
 
