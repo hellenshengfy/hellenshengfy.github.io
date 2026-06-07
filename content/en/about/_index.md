@@ -28,7 +28,7 @@ I worked as a financial analyst in DBS Bank to facilitate **invesment banking bu
    
 {{< column >}}
 
-I enjoyed my time in the museums and the field even more. In 2019, I **backpacked around Europe** and visited over 20 museums there. In 2023, I had the opportunity to excavate a neolithic site in China, where I felt immense satisfaction and freedom. Holding potsherds in my hand, I felt **a connection to thousands of years ago**, a feeling unlike anything I had experienced before. It is through this kind of feeling that I have come to be certain about my passion for archaeology. In 2024, I participated in the **excavation project at Yinxu**, the ruins of the last capital of China's Shang Dynasty.
+I enjoyed my time in the museums and the field even more. In 2019, I **backpacked around Europe** and visited over 20 museums there. In 2023, I had the opportunity to excavate a neolithic site in China, where I felt immense satisfaction and freedom. Holding potsherds in my hand, I felt **a connection to thousands of years ago**, a feeling unlike anything I had experienced before. It is through this kind of feeling that I have come to be certain about my passion for archaeology. In 2024, I participated in the **excavation project at Yinxu**, the ruins of the last capital of China's Shang Dynasty. In 2025, I graduated with Distinction from Durham University, earning a **Master's degree in Archaeology**.
 
 {{< endcolumn >}}
 
