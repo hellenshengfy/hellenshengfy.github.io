@@ -34,7 +34,7 @@ I enjoyed my time in the museums and the field even more. In 2019, I **backpacke
 
 
 ## Education
-- 2024 ~ 2025, M.A in Archaeology, Durham University, UK
+- 2024 ~ 2025, M.A in Archaeology (Distinction), Durham University, UK
 - 2023, Study in Fudan University (Course list: *Zooarchaeology*, *Isotope Analysis*,*A History of Archaeological Thoughts*, *Economic Archaeology* and etc.)
 - 2017 ~ 2020, M.S. in Financial Engineering and Risk Management, Beijing Foreign Studies University 
 - 2013 ~ 2017, B.A. in Financial English and Finance, Central University of Finance and Economics
