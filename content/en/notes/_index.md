@@ -28,7 +28,7 @@ I interned on the excavation project at Yinxu, directed by [Mr. Niu Shishan](htt
 
 {{<figure src="https://hellenshengfy.github.io/team.jpg">}}
 
- - [PDF: Shenjiali site (Fieldwork)](https://hellenshengfy.github.io/shenjiali_sample.pdf)
+ - [PDF: Shenjiali site (Fieldwork)](https://hellenshengfy.github.io/Shenjiali_Journal.pdf)
    
  - [PDF: Zhangshan site (Post-fieldwork)](https://hellenshengfy.github.io/zhangshan_sample.pdf)
 
